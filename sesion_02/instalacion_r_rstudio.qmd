@@ -1,0 +1,78 @@
+---
+title: "Ayudantía Estadística"
+subtitle: "Instalación de R y RStudio"
+author: "Diego Iturrieta"
+date: today
+lang: es
+language: 
+  title-block-author-single: "Autor"
+title-block-banner: true
+format:
+  html:
+    toc: true
+    toc-title: "Contenidos"
+    toc-location: left
+    toc-depth: 3
+    code-copy: true
+    smooth-scroll: true
+---
+
+```{=html}
+<style>
+:root {
+  --inst-color: #a5466d;
+  --banner-color: linear-gradient(90deg, #3A1C71, #D76D77);
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: var(--banner-color);
+  padding-top: 150px;
+  color: white;
+}
+
+.logo-position {
+  position: absolute;
+  top: 3%;
+  right: 4%;
+  text-align: right;
+  font-size: 16px;
+}
+
+a {
+  color: var(--inst-color);
+}
+
+#toc-title {
+  font-weight: bold;
+}
+
+.sidebar nav[role="doc-toc"] a:is(.active, :hover) {
+  color: var(--inst-color) !important;
+}
+</style>
+```
+
+::: logo-position
+<img src="img/Logo_uah_negro-01.jpg" width="200"/><br> <strong>Estadística I</strong><br> Ciencia Política y Relaciones Internacionales UAH
+:::
+
+# Instalación de R y RStudio:
+
+## Orden de instalación:
+
+### 1. Instalar R
+
+Windows: <https://cran.r-project.org/bin/windows/base/>
+
+Mac: <https://cran.r-project.org/bin/macosx/> 
+
+
+### 2. Instalar RStudio
+
+Dentro se encuentran las opciones de Windows y Mac: <https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads>
+
+Esto se instala como cualquier otro programa dentro de sus computadores, es crucial que sigan el orden de instalación para que no tengan errores.
+
+No instalen versiones “server” o programas que exijan pagos, recuerden que este programa es gratuito en todo sentido, lo que denominamos open source y open science.
+
+Si les queda alguna duda pueden seguir los pasos de este tutorial: <https://www.youtube.com/watch?v=hbgzW3Cvda4>
