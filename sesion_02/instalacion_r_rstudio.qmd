@@ -64,8 +64,7 @@ a {
 
 Windows: <https://cran.r-project.org/bin/windows/base/>
 
-Mac: <https://cran.r-project.org/bin/macosx/> 
-
+Mac: <https://cran.r-project.org/bin/macosx/>
 
 ### 2. Instalar RStudio
 
