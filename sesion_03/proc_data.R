@@ -1,3 +1,8 @@
+
+# Link a cep 94 -----------------------------------------------------------
+
+# https://www.cepchile.cl/encuesta/encuesta-cep-n-94-mayo-junio-2025-issp-orientaciones-laborales/
+
 # 1. Instalar librerias ---------------------------------------------------
 
 pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es una variable. Cada observación es una fila, cada fila es una observación. Cada valor es una celda, cada celda es un único valor.
@@ -40,14 +45,7 @@ summary(data) # entrega un resumen descriptivo básico de cada variable.
 
 colSums(is.na(data)) # cuenta cuántos valores perdidos hay en cada variable.
 
-
-
-
-
-
-
-
-# revision sugerida por cep -----------------------------------------------
+# 4. revision sugerida por cep --------------------------------------------
 
 # CEP sugiere al final de su manual de usuario utilizar el paquete srvyr, es por esto que lo tenemos previamente cargado con pacman.
 
