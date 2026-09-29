@@ -1,4 +1,4 @@
-# instalar librerias ------------------------------------------------------
+# 1. Instalar librerias ---------------------------------------------------
 
 pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es una variable. Cada observación es una fila, cada fila es una observación. Cada valor es una celda, cada celda es un único valor.
                dplyr, # para manipular datos.
@@ -8,7 +8,7 @@ pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es u
                srvyr) # para calcular estadisticos en datos tipo encuesta.
 
 
-# Para profundizar: ¿Cómo se que hace cada librería? ----------------------
+# Para profundizar: ¿Qué hace cada librería? -----------------------------
 
 # tidyr: https://tidyr.tidyverse.org/
 # dplyr: https://dplyr.tidyverse.org/
@@ -17,22 +17,39 @@ pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es u
 # readxl: https://readxl.tidyverse.org/
 # srvyr: http://gdfe.co/srvyr/
 
-# cargar datos ------------------------------------------------------------
+# 2. Cargar datos ---------------------------------------------------------
 
 data <- readRDS("base_94.Rds")
 
 
-# revisar datos -----------------------------------------------------------
+# 3. Revisar datos --------------------------------------------------------
 
-colnames(data)
+colnames(data) # muestra el nombre de todas las columnas.
+
+dim(data) # muestra cuántas filas y columnas tiene la base.
+
+glimpse(data) # muestra las variables, su tipo y algunos de sus valores.
+
+head(data) # muestra las primeras 6 observaciones.
+
+summary(data) # entrega un resumen descriptivo básico de cada variable.
+
+# Para profundizar: ¿Cómo reviso datos perdidos? --------------------------
+
+# Con datos perdidos nos vamos a referir cuando en nuestras observaciones veamos "NA" escrito con letras rojas, esto corresponde a valores que no fueron digitados en la encuesta, conviene revisar el diccionario de variables y los manuales para asegurarnos que significa especificamente según la institución.
+
+colSums(is.na(data)) # cuenta cuántos valores perdidos hay en cada variable.
 
 
-data2 <- select(data, 
-                )
+
+
+
+
+
 
 # revision sugerida por cep -----------------------------------------------
 
-# CEP sugiere utilizar el paquete srvyr, es por esto que lo tenemos previamente cargado con pacman.
+# CEP sugiere al final de su manual de usuario utilizar el paquete srvyr, es por esto que lo tenemos previamente cargado con pacman.
 
 # Se declara el diseño de la encuesta
 cep <- data %>% 
