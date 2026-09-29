@@ -66,3 +66,32 @@ cep %>%
   filter(zona_u_r==1) %>% 
   group_by(sexo, eval_gob_1) %>% 
   summarise(proportion = survey_prop())
+
+
+# 5. Visualizar variables -------------------------------------------------
+
+# Evaluación del gobierno
+
+cep %>% 
+  group_by(eval_gob_1) %>% 
+  summarise(proportion = survey_prop()) %>% 
+  ggplot(aes(x = as_factor(eval_gob_1), y = proportion)) +
+  geom_col() +
+  labs(x = NULL,
+       y = "Proporción",
+       title = "Evaluación del gobierno")
+
+
+# Evaluación del gobierno por sexo
+
+cep %>% 
+  group_by(sexo, eval_gob_1) %>% 
+  summarise(proportion = survey_prop()) %>% 
+  ggplot(aes(x = as_factor(eval_gob_1),
+             y = proportion,
+             fill = as_factor(sexo))) +
+  geom_col(position = "dodge") +
+  labs(x = NULL,
+       y = "Proporción",
+       fill = "Sexo",
+       title = "Evaluación del gobierno por sexo")
