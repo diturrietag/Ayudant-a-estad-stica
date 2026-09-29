@@ -1,7 +1,7 @@
-
 # Link a cep 94 -----------------------------------------------------------
 
 # https://www.cepchile.cl/encuesta/encuesta-cep-n-94-mayo-junio-2025-issp-orientaciones-laborales/
+
 
 # 1. Instalar librerias ---------------------------------------------------
 
@@ -62,14 +62,63 @@ count(data, eval_gob_1) # cuenta observaciones según evaluación del gobierno.
 # 5. Ejemplos de manipulación --------------------------------------------
 
 # Filtrar únicamente a las personas que viven en zonas urbanas.
+
 data_urbana <- data %>%
   filter(zona_u_r == 1)
 
+
 # Contar observaciones por sexo dentro de la zona urbana.
+
 data_urbana %>%
   count(sexo)
 
-# Agrupar por sexo y resumir la edad.
+
+# Seleccionar algunas variables.
+
+data %>%
+  select(sexo, edad, zona_u_r)
+
+
+# Ordenar las observaciones según edad.
+
+data %>%
+  arrange(edad)
+
+
+# 6. Medidas de tendencia central ----------------------------------------
+
+# Las principales medidas de tendencia central son la media, la mediana y la moda.
+
+# Para estos ejemplos utilizaremos edad, ya que es una variable numérica.
+
+
+# Media -------------------------------------------------------------------
+
+# La media corresponde al promedio de los valores.
+
+mean(data$edad, na.rm = TRUE)
+
+
+# Mediana -----------------------------------------------------------------
+
+# La mediana corresponde al valor que divide las observaciones ordenadas
+# en dos grupos de igual tamaño.
+
+median(data$edad, na.rm = TRUE)
+
+
+# Moda --------------------------------------------------------------------
+
+# La moda corresponde al valor que aparece con mayor frecuencia.
+
+data %>%
+  count(edad) %>%
+  arrange(desc(n)) %>%
+  head(1)
+
+
+# Comparar media y mediana por sexo ---------------------------------------
+
 data %>%
   group_by(sexo) %>%
   summarise(
@@ -78,12 +127,18 @@ data %>%
   )
 
 
-# 6. Revisión sugerida por CEP -------------------------------------------
+# Importante: que una variable esté representada mediante números
+# no significa necesariamente que corresponda calcular su media.
+# Siempre debemos considerar qué está midiendo la variable.
+
+
+# 7. Revisión sugerida por CEP -------------------------------------------
 
 # CEP sugiere al final de su manual de usuario utilizar el paquete srvyr,
 # es por esto que lo tenemos previamente cargado con pacman.
 
 # Se declara el diseño de la encuesta.
+
 cep <- data %>%
   as_survey(weights = pond,
             strata = estrato,
@@ -109,7 +164,8 @@ cep %>%
   group_by(sexo, eval_gob_1) %>%
   summarise(proportion = survey_prop())
 
-# 7. Visualizar variables -------------------------------------------------
+
+# 8. Visualizar variables -------------------------------------------------
 
 
 # Evaluación del gobierno -------------------------------------------------
@@ -174,5 +230,3 @@ cep %>%
     fill = "Zona",
     title = "Identificación política por zona"
   )
-
-
