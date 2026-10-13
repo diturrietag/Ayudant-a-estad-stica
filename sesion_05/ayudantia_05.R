@@ -5,8 +5,7 @@ pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es u
                ggplot2, # para crear gráficos.
                haven, # carga datos tipo sav y dta.
                readxl, # para abrir archivos excel.
-               srvyr, # para calcular estadisticos en datos tipo encuesta.
-               DescTools) # para calcular la moda con Mode().
+               srvyr) # para calcular estadisticos en datos tipo encuesta.
 
 options(scipen = 999) # evita que R muestre resultados en notación científica.
 
@@ -39,50 +38,41 @@ summary(cep95rds) # entrega un resumen descriptivo básico de cada variable.
 # Resumen en un solo valor el "centro" de una variable:
 #   Media   : promedio. Suma de los valores dividida por el n° de casos. mean()
 #   Mediana : valor del medio al ordenar los casos; deja 50% abajo y 50% arriba. median()
-#   Moda    : valor o categoría más frecuente. Mode() (de DescTools)
+#   Moda    : valor o categoría más frecuente. table() muestra cuántas veces aparece cada valor.
+
+# Qué medida usar según el nivel de medición de la variable para este caso en especifico:
+# Es imporatante tener en cuenta el propio criterio de los casos.
+#   Nominal (sexo, voto_1v, aprob_pdte)            -> solo moda.
+#   Ordinal (interes_pol, conf_partidos)           -> moda y mediana.
+#   Intervalo / razón (edad, escala_izq_der, satisf_vida) -> moda, mediana y media.
 
 # na.rm = TRUE: le pide a R que ignore los NA. Sin esto, si hay un NA el resultado es NA.
 
 # 4.1 Variable numérica: edad
 mean(cep95rds$edad, na.rm = TRUE)    # media.
 median(cep95rds$edad, na.rm = TRUE)  # mediana.
-Mode(cep95rds$edad, na.rm = TRUE)    # moda ("freq" indica cuántas personas tienen esa edad).
+sort(table(cep95rds$edad), decreasing = TRUE) # moda: la primera edad de la lista es la más frecuente.
 
 # 4.2 Variable numérica: escala izquierda-derecha (1 a 10)
-mean(cep95rds$escala_izq_der)                # sin na.rm = TRUE el resultado es NA.
-mean(cep95rds$escala_izq_der, na.rm = TRUE)  # media.
+mean(cep95rds$escala_izq_der)                 # sin na.rm = TRUE el resultado es NA.
+mean(cep95rds$escala_izq_der, na.rm = TRUE)   # media.
 median(cep95rds$escala_izq_der, na.rm = TRUE) # mediana.
-Mode(cep95rds$escala_izq_der, na.rm = TRUE)   # moda.
-
-# Las tres juntas con summarise() (dplyr):
-cep95rds %>%
-  summarise(media   = mean(satisf_vida, na.rm = TRUE),
-            mediana = median(satisf_vida, na.rm = TRUE),
-            moda    = Mode(satisf_vida, na.rm = TRUE)[1])  # [1]: primer valor si hay más de una moda.
+table(cep95rds$escala_izq_der)                # moda: el valor con más personas.
 
 # 4.3 Variable nominal: solo moda
-Mode(cep95rds$voto_1v, na.rm = TRUE)    # categoría más frecuente.
-Mode(cep95rds$aprob_pdte, na.rm = TRUE)
-Mode(cep95rds$sexo, na.rm = TRUE)
+table(cep95rds$voto_1v)     # moda: la categoría con más personas.
+table(cep95rds$aprob_pdte)
+table(cep95rds$sexo)
 
 # 4.4 Variable ordinal: moda y mediana
-# La mediana de una variable ordinal es la categoría donde el porcentaje
-# acumulado alcanza o supera el 50%.
-Mode(cep95rds$interes_pol, na.rm = TRUE) # moda.
-
-cep95rds %>%
-  filter(!is.na(interes_pol)) %>%                              # dejamos fuera los NA.
-  count(interes_pol) %>%                                       # frecuencia de cada categoría.
-  mutate(porcentaje           = round(n / sum(n) * 100, 1),
-         porcentaje_acumulado = cumsum(porcentaje))            # cumsum(): suma acumulada.
-# La mediana es la primera categoría cuyo porcentaje acumulado llega a 50%.
+table(cep95rds$interes_pol)                             # moda: la categoría con más personas.
+median(as.numeric(cep95rds$interes_pol), na.rm = TRUE)  # mediana: entrega la posición de la categoría.
+levels(cep95rds$interes_pol)                            # orden de las categorías: 1 = Nada, 2 = No muy...
 
 # 4.5 Tendencia central por grupos: group_by() + summarise()
-# Cambiando la variable dentro de group_by() comparamos otros grupos.
 cep95rds %>%
-  group_by(aprob_pdte) %>%                   # <- prueben con sexo.
-  summarise(media   = mean(escala_izq_der, na.rm = TRUE),
-            mediana = median(escala_izq_der, na.rm = TRUE))
+  group_by(aprob_pdte) %>%                                # <- prueben con sexo.
+  summarise(media = mean(escala_izq_der, na.rm = TRUE))   # media de la escala en cada grupo.
 
 
 # 5. gráficos básicos con ggplot2 -------------------------------------------
