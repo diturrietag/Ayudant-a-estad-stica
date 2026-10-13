@@ -5,7 +5,8 @@ pacman::p_load(tidyr, # para trabajar variables como columnas, cada columna es u
                ggplot2, # para crear gráficos.
                haven, # carga datos tipo sav y dta.
                readxl, # para abrir archivos excel.
-               srvyr) # para calcular estadisticos en datos tipo encuesta.
+               srvyr, # para calcular estadisticos en datos tipo encuesta.
+               DescTools) # para calcular la moda con Mode().
 
 options(scipen = 999) # evita que R muestre resultados en notación científica.
 
@@ -35,32 +36,53 @@ summary(cep95rds) # entrega un resumen descriptivo básico de cada variable.
 
 
 # 4. medidas de tendencia central --------------------------------------------
-# nominal -> moda | ordinal -> moda y mediana | numérica -> moda, mediana y media
+# Resumen en un solo valor el "centro" de una variable:
+#   Media   : promedio. Suma de los valores dividida por el n° de casos. mean()
+#   Mediana : valor del medio al ordenar los casos; deja 50% abajo y 50% arriba. median()
+#   Moda    : valor o categoría más frecuente. Mode() (de DescTools)
 
-# 4.1 Numéricas: media y mediana
+# na.rm = TRUE: le pide a R que ignore los NA. Sin esto, si hay un NA el resultado es NA.
+
+# 4.1 Variable numérica: edad
+mean(cep95rds$edad, na.rm = TRUE)    # media.
+median(cep95rds$edad, na.rm = TRUE)  # mediana.
+Mode(cep95rds$edad, na.rm = TRUE)    # moda ("freq" indica cuántas personas tienen esa edad).
+
+# 4.2 Variable numérica: escala izquierda-derecha (1 a 10)
+mean(cep95rds$escala_izq_der)                # sin na.rm = TRUE el resultado es NA.
+mean(cep95rds$escala_izq_der, na.rm = TRUE)  # media.
+median(cep95rds$escala_izq_der, na.rm = TRUE) # mediana.
+Mode(cep95rds$escala_izq_der, na.rm = TRUE)   # moda.
+
+# Las tres juntas con summarise() (dplyr):
 cep95rds %>%
-  summarise(media_edad      = mean(edad, na.rm = TRUE),          # na.rm = TRUE ignora los NA.
-            mediana_edad    = median(edad, na.rm = TRUE),
-            media_izq_der   = mean(escala_izq_der, na.rm = TRUE),
-            mediana_izq_der = median(escala_izq_der, na.rm = TRUE),
-            media_satisf    = mean(satisf_vida, na.rm = TRUE),
-            mediana_satisf  = median(satisf_vida, na.rm = TRUE))
+  summarise(media   = mean(satisf_vida, na.rm = TRUE),
+            mediana = median(satisf_vida, na.rm = TRUE),
+            moda    = Mode(satisf_vida, na.rm = TRUE)[1])  # [1]: primer valor si hay más de una moda.
 
-# Media por grupos: group_by() + summarise()
+# 4.3 Variable nominal: solo moda
+Mode(cep95rds$voto_1v, na.rm = TRUE)    # categoría más frecuente.
+Mode(cep95rds$aprob_pdte, na.rm = TRUE)
+Mode(cep95rds$sexo, na.rm = TRUE)
+
+# 4.4 Variable ordinal: moda y mediana
+# La mediana de una variable ordinal es la categoría donde el porcentaje
+# acumulado alcanza o supera el 50%.
+Mode(cep95rds$interes_pol, na.rm = TRUE) # moda.
+
 cep95rds %>%
-  group_by(aprob_pdte) %>%
-  summarise(media_izq_der = mean(escala_izq_der, na.rm = TRUE))
+  filter(!is.na(interes_pol)) %>%                              # dejamos fuera los NA.
+  count(interes_pol) %>%                                       # frecuencia de cada categoría.
+  mutate(porcentaje           = round(n / sum(n) * 100, 1),
+         porcentaje_acumulado = cumsum(porcentaje))            # cumsum(): suma acumulada.
+# La mediana es la primera categoría cuyo porcentaje acumulado llega a 50%.
 
-# 4.2 Nominales: la moda es la categoría más frecuente
+# 4.5 Tendencia central por grupos: group_by() + summarise()
+# Cambiando la variable dentro de group_by() comparamos otros grupos.
 cep95rds %>%
-  count(voto_1v, sort = TRUE) # sort = TRUE ordena de mayor a menor: la primera fila es la moda.
-
-# 4.3 Ordinales: moda y mediana
-cep95rds %>%
-  count(interes_pol, sort = TRUE) # moda.
-
-median(as.numeric(cep95rds$interes_pol), na.rm = TRUE) # as.numeric() usa la posición: 1 = Nada ... 5 = Muy interesado.
-levels(cep95rds$interes_pol)[2]                        # traduce la posición 2 a su etiqueta.
+  group_by(aprob_pdte) %>%                   # <- prueben con sexo.
+  summarise(media   = mean(escala_izq_der, na.rm = TRUE),
+            mediana = median(escala_izq_der, na.rm = TRUE))
 
 
 # 5. gráficos básicos con ggplot2 -------------------------------------------
@@ -68,54 +90,51 @@ levels(cep95rds$interes_pol)[2]                        # traduce la posición 2 
 
 # 5.1 Barras: variable nominal
 cep95rds %>%
-  filter(!is.na(voto_1v)) %>%                           # sacamos los NA del gráfico.
-  ggplot(aes(x = forcats::fct_infreq(voto_1v))) +       # ordena las barras de mayor a menor.
-  geom_bar(fill = "steelblue") +
-  labs(title = "Voto simulado en primera vuelta presidencial",
-       subtitle = "Encuesta CEP N°95 (2025)",
-       x = "Candidato/a u opción",
-       y = "Número de personas") +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) # gira las etiquetas para que se lean.
+  filter(!is.na(aprob_pdte)) %>%     # sacamos los NA del gráfico.
+  ggplot(aes(x = aprob_pdte)) +
+  geom_bar() +                       # una barra por categoría.
+  labs(title = "Aprobación del Presidente",
+       x = "Respuesta",
+       y = "Frecuencia (n° de personas)",
+       caption = "Fuente: Encuesta CEP N°95, 2025") +
+  theme_minimal()
 
 # 5.2 Barras: variable ordinal (respeta el orden de las categorías)
 cep95rds %>%
   filter(!is.na(conf_partidos)) %>%
   ggplot(aes(x = conf_partidos)) +
-  geom_bar(fill = "darkred") +
+  geom_bar() +
   labs(title = "Confianza en los partidos políticos",
-       subtitle = "Encuesta CEP N°95 (2025)",
        x = "Nivel de confianza",
-       y = "Número de personas") +
+       y = "Frecuencia (n° de personas)",
+       caption = "Fuente: Encuesta CEP N°95, 2025") +
   theme_minimal()
 
-# 5.3 Histograma: variable numérica
-ggplot(cep95rds, aes(x = edad)) +
-  geom_histogram(binwidth = 5, fill = "grey40", color = "white") + # barras de 5 años.
-  geom_vline(xintercept = mean(cep95rds$edad), color = "red", linetype = "dashed") + # media.
-  labs(title = "Distribución de la edad de los entrevistados",
-       subtitle = "La línea roja marca la edad promedio",
-       x = "Edad (años)",
-       y = "Número de personas") +
-  theme_minimal()
+# 5.3 Histograma: variable numérica, con su media y mediana
+# Primero guardamos los valores en objetos y luego los usamos en el gráfico.
+media_edad   <- mean(cep95rds$edad, na.rm = TRUE)
+mediana_edad <- median(cep95rds$edad, na.rm = TRUE)
 
-# 5.4 Barras de una escala 1 a 10
 cep95rds %>%
-  filter(!is.na(escala_izq_der)) %>%
-  ggplot(aes(x = factor(escala_izq_der))) +             # factor() da una barra por valor.
-  geom_bar(fill = "purple4") +
-  labs(title = "Autoubicación en la escala izquierda-derecha",
-       subtitle = "1 = izquierda, 10 = derecha. Excluye a quienes no se ubican",
-       x = "Posición en la escala",
-       y = "Número de personas") +
+  ggplot(aes(x = edad)) +
+  geom_histogram(binwidth = 5, fill = "grey70", color = "white") +            # barras de 5 años.
+  geom_vline(xintercept = media_edad, color = "firebrick", linewidth = 1) +   # media.
+  geom_vline(xintercept = mediana_edad, color = "steelblue", linewidth = 1,
+             linetype = "dashed") +                                           # mediana.
+  labs(title = "Distribución de la edad: media y mediana",
+       subtitle = "Media: línea roja | Mediana: línea azul punteada",
+       x = "Edad (años)",
+       y = "Frecuencia (n° de personas)",
+       caption = "Fuente: Encuesta CEP N°95, 2025") +
   theme_minimal()
 
-# 5.5 Boxplot: variable numérica comparada entre grupos
+# 5.4 Boxplot: variable numérica comparada entre grupos
 cep95rds %>%
   filter(!is.na(aprob_pdte), !is.na(escala_izq_der)) %>%
   ggplot(aes(x = aprob_pdte, y = escala_izq_der)) +
-  geom_boxplot(fill = "lightblue") +                     # la línea gruesa es la mediana.
-  labs(title = "Posición izquierda-derecha según aprobación del Presidente",
+  geom_boxplot() +                   # la línea gruesa es la mediana.
+  labs(title = "Escala izquierda-derecha según aprobación del Presidente",
        x = "Aprobación del Presidente",
-       y = "Escala izquierda (1) - derecha (10)") +
+       y = "Escala izquierda (1) - derecha (10)",
+       caption = "Fuente: Encuesta CEP N°95, 2025") +
   theme_minimal()
