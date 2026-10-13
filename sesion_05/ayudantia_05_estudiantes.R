@@ -5,7 +5,14 @@
 
 
 # 2. cargar datos ------------------------------------------------------------
-# usa este código como referencia: readRDS("cep95_clase.rds")
+# usa este código como referencia:
+
+# readRDS("cep95_clase.rds") # carga de datos para archivos .rds
+# read_sav("cep95_clase.sav") # carga de datos para archivos .sav
+# read.csv("cep95_clase.csv") # carga de datos para archivos .csv
+# read_dta("cep95_clase.dta") # carga de datos para archivos .dta
+
+# escribe aquí tu código:
 
 
 # 3. revisar variables -------------------------------------------------------

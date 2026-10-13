@@ -11,7 +11,7 @@ options(scipen = 999) # evita que R muestre resultados en notación científica.
 
 
 # 2. cargar datos ------------------------------------------------------------
-# comando dependiendo del archivo a trabajar.
+# comando dependiendo del tipo de archivo a trabajar.
 
 cep95rds <- readRDS("cep95_clase.rds") # carga de datos para archivos .rds
 cep95sav <- read_sav("cep95_clase.sav") # carga de datos para archivos .sav
