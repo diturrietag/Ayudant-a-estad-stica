@@ -1,0 +1,1218 @@
+"sexo","edad","voto_1v","aprob_pdte","interes_pol","conf_partidos","escala_izq_der","satisf_vida"
+"Mujer",25,"Kast","Desaprueba","No muy","Poca",3,10
+"Mujer",63,"No vota","Aprueba","Nada","Bastante",NA,5
+"Hombre",61,"Kaiser","Desaprueba","Algo","Nada",10,5
+"Hombre",62,"Kaiser","Desaprueba","Bastante","Nada",8,3
+"Mujer",86,"Jara","Aprueba","Algo","Poca",3,8
+"Mujer",34,"Blanco",NA,"Nada","Poca",NA,10
+"Mujer",39,"Kast","Aprueba","Algo","Poca",10,3
+"Mujer",24,"Parisi","Desaprueba","No muy","Nada",6,7
+"Hombre",62,"Jara","Aprueba",NA,"Nada",5,7
+"Hombre",36,"No vota","Desaprueba","No muy","Poca",7,10
+"Mujer",28,"Jara","Aprueba","Algo","Poca",2,8
+"Hombre",36,"Jara","Aprueba","Algo","Poca",1,6
+"Hombre",28,"Jara","Aprueba","Algo","Nada",5,6
+"Hombre",37,"Nulo","Desaprueba","Nada","Nada",2,1
+"Hombre",40,"Matthei","Desaprueba","Bastante","Nada",6,10
+"Hombre",68,"Kaiser","Desaprueba","Algo","Nada",10,7
+"Hombre",56,"Mayne-Nicholls","Desaprueba","Nada","Nada",5,1
+"Hombre",40,"Kast","Desaprueba","Nada","Nada",NA,1
+"Hombre",30,"Kast","Desaprueba","No muy","Poca",5,8
+"Hombre",63,"Kaiser","Desaprueba","Bastante","Nada",7,7
+"Hombre",65,"No vota","Desaprueba","Nada","Poca",6,10
+"Mujer",41,"No vota",NA,"Nada","Poca",5,8
+"Hombre",38,"Parisi","Desaprueba","Muy interesado","Nada",5,7
+"Mujer",64,"Blanco",NA,"Nada","Nada",NA,5
+"Hombre",35,"Kast","Desaprueba","Nada","Nada",NA,5
+"Mujer",55,"Jara","Aprueba","Muy interesado","Poca",1,7
+"Mujer",28,"Nulo","Desaprueba","No muy","Poca",5,10
+"Mujer",19,"Jara","Aprueba","No muy","Poca",3,6
+"Mujer",72,"Matthei","Ni aprueba ni desaprueba","Nada","Nada",NA,8
+"Mujer",51,"Jara","Aprueba","Algo","Poca",6,5
+"Hombre",63,"Kast","Desaprueba","Algo","Poca",5,3
+"Mujer",54,"Matthei","Desaprueba","No muy","Nada",5,8
+"Mujer",59,"Jara","Desaprueba","Algo","Nada",5,7
+"Hombre",30,"Mayne-Nicholls","Desaprueba","Nada","Nada",5,7
+"Mujer",64,"Kast","Desaprueba","No muy","Nada",10,4
+"Mujer",23,"No vota","Desaprueba","Algo","Poca",NA,10
+"Mujer",38,"Enríquez-Ominami","Desaprueba","No muy","Nada",5,5
+"Mujer",34,"No vota","Desaprueba","Nada","Nada",NA,10
+"Mujer",28,"Kast","Aprueba","Nada","Nada",5,9
+"Hombre",75,"Matthei","Desaprueba","Nada","Nada",5,5
+"Hombre",22,"Jara","Aprueba","Bastante","Poca",NA,5
+"Mujer",30,NA,"Desaprueba","Algo","Nada",NA,10
+"Mujer",50,"Nulo","Desaprueba","Algo","Nada",NA,8
+"Mujer",75,"Jara","Ni aprueba ni desaprueba","Nada","Nada",NA,6
+"Hombre",82,"Jara","Aprueba","Nada","Nada",2,5
+"Mujer",39,"Jara","Aprueba","Bastante","Poca",5,7
+"Mujer",48,"Parisi","Desaprueba","Algo","Poca",NA,7
+"Mujer",73,"Blanco","Desaprueba","Nada","Nada",NA,8
+"Mujer",66,"Blanco","Desaprueba","Algo","Nada",NA,6
+"Hombre",83,"Blanco","Aprueba","Algo","Nada",NA,10
+"Hombre",68,"Parisi","Desaprueba","Muy interesado","Nada",5,1
+"Mujer",44,"Kast","Desaprueba","Nada","Nada",5,7
+"Mujer",56,"Kast","Desaprueba","Nada","Poca",4,6
+"Hombre",73,"Jara","Aprueba","Muy interesado","Nada",4,10
+"Hombre",48,"Kast","Desaprueba","Algo","Poca",8,7
+"Mujer",47,"Jara","Aprueba","No muy","Nada",5,10
+"Mujer",47,"Kaiser","Aprueba","Algo","Nada",5,1
+"Mujer",71,"Kast","Desaprueba","Algo","Poca",5,10
+"Hombre",52,"Jara","Aprueba","Bastante","Nada",4,6
+"Mujer",86,"Nulo","Desaprueba","Nada","Poca",10,7
+"Mujer",47,"No vota","Desaprueba","Algo","Nada",NA,5
+"Mujer",36,"Jara","Desaprueba","Algo","Nada",5,7
+"Mujer",58,"No vota",NA,"Nada","Nada",NA,10
+"Hombre",36,"Kast","Desaprueba","Nada","Poca",NA,6
+"Mujer",58,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",5,8
+"Hombre",59,"Matthei","Aprueba","Algo","Nada",10,10
+"Mujer",59,"Jara","Aprueba","Algo","Nada",NA,10
+"Mujer",36,"Jara","Aprueba","Muy interesado","Nada",2,7
+"Mujer",55,"Kaiser","Desaprueba","Nada","Poca",6,10
+"Mujer",23,"Kast","Desaprueba","Nada","Nada",6,10
+"Mujer",68,"Jara","Ni aprueba ni desaprueba","No muy","Poca",NA,7
+"Hombre",21,"Jara","Aprueba","Bastante","Poca",3,7
+"Hombre",53,"Blanco","Desaprueba","Nada",NA,1,1
+"Hombre",21,"Kast","Desaprueba","Algo","Poca",8,6
+"Mujer",23,"Jara","Aprueba","Algo","Poca",4,10
+"Hombre",74,"Jara","Desaprueba","Bastante","Nada",1,10
+"Hombre",88,"Kast","Desaprueba","Algo","Poca",NA,5
+"Hombre",48,NA,"Desaprueba","Bastante","Nada",7,5
+"Mujer",20,NA,"Ni aprueba ni desaprueba","Nada","Nada",NA,7
+"Hombre",70,"Jara","Desaprueba","No muy","Nada",1,7
+"Mujer",70,"No vota","Aprueba","Nada","Nada",NA,6
+"Mujer",83,"Jara","Aprueba","No muy","Nada",4,9
+"Mujer",57,"Matthei","Desaprueba","No muy","Nada",5,9
+"Hombre",62,"No vota","Desaprueba","Nada","Nada",NA,5
+"Mujer",56,"Kast","Desaprueba","No muy","Poca",6,10
+"Hombre",49,"Kast","Desaprueba","No muy","Nada",9,7
+"Mujer",69,"Blanco","Ni aprueba ni desaprueba","Nada","Nada",NA,1
+"Hombre",79,"Jara","Desaprueba","Nada","Nada",NA,6
+"Hombre",50,"Jara","Aprueba","Algo","Nada",NA,7
+"Hombre",55,"Kast","Desaprueba","Bastante","Poca",10,10
+"Mujer",61,"Jara","Desaprueba","No muy","Nada",1,10
+"Mujer",19,"Kaiser","Desaprueba","Algo","Poca",NA,10
+"Mujer",67,"Jara","Aprueba","Bastante","Poca",1,5
+"Mujer",64,"Blanco","Desaprueba","Nada","Nada",5,10
+"Hombre",30,"Parisi","Desaprueba","No muy","Nada",5,7
+"Hombre",51,"Jara","Aprueba","Nada","Bastante",3,6
+"Hombre",68,"Matthei","Ni aprueba ni desaprueba","Nada","Nada",5,7
+"Hombre",71,"Nulo","Desaprueba","Nada","Nada",5,7
+"Mujer",47,"Matthei","Desaprueba","Nada","Nada",10,9
+"Hombre",80,"Kaiser","Desaprueba","Nada","Nada",6,10
+"Mujer",66,"No vota","Desaprueba","No muy","Nada",10,10
+"Hombre",73,"Jara","Ni aprueba ni desaprueba","Nada","Nada",6,5
+"Mujer",63,"Kast","Desaprueba","Nada","Poca",6,6
+"Hombre",49,"Parisi","Desaprueba","Nada","Nada",NA,5
+"Mujer",37,"Jara","Aprueba","Nada","Nada",5,10
+"Mujer",51,"Jara","Aprueba","No muy","Poca",1,6
+"Mujer",24,"Jara","Aprueba","Bastante","Poca",3,8
+"Mujer",37,"Jara","Aprueba","Algo","Nada",5,9
+"Mujer",60,"Mayne-Nicholls","Aprueba","Algo","Poca",5,8
+"Hombre",18,"Parisi","Desaprueba","Algo","Nada",5,10
+"Mujer",49,"Enríquez-Ominami","Desaprueba","No muy","Nada",5,3
+"Mujer",64,"Kast","Desaprueba","Nada","Nada",10,10
+"Mujer",77,"Jara","Aprueba","Bastante","Poca",8,10
+"Mujer",35,"No vota","Desaprueba","No muy","Poca",5,7
+"Hombre",31,"Nulo","Desaprueba","Nada","Nada",5,6
+"Mujer",21,"No vota","Aprueba","No muy","Nada",NA,3
+"Hombre",43,"Parisi","Desaprueba","Muy interesado","Nada",7,8
+"Hombre",58,"Kast","Desaprueba","Nada","Nada",7,10
+"Mujer",58,"Blanco","Desaprueba","Algo","Nada",NA,8
+"Hombre",63,"Blanco","Desaprueba","Nada","Nada",10,3
+"Mujer",58,"Kast","Desaprueba","Nada","Nada",5,7
+"Mujer",79,"Blanco","Desaprueba","Muy interesado","Nada",NA,8
+"Mujer",61,"Jara","Aprueba","Muy interesado","Nada",NA,5
+"Hombre",68,"Jara","Desaprueba","Nada","Nada",NA,10
+"Hombre",38,"Blanco","Desaprueba","Bastante","Nada",5,6
+"Mujer",23,"Kast","Desaprueba","Algo","Poca",7,7
+"Hombre",60,"Nulo","Desaprueba","Nada","Nada",NA,6
+"Hombre",55,"Matthei","Desaprueba","Bastante","Nada",NA,5
+"Mujer",26,"Jara","Aprueba","Algo","Poca",NA,9
+"Hombre",88,"Kast","Desaprueba","Nada","Nada",6,8
+"Hombre",24,"Mayne-Nicholls","Aprueba","Bastante","Poca",3,6
+"Mujer",77,"Blanco","Desaprueba","Nada","Nada",NA,4
+"Hombre",52,NA,"Ni aprueba ni desaprueba","Bastante","Nada",10,5
+"Mujer",47,"Kast","Desaprueba","Algo","Nada",5,3
+"Mujer",45,"Nulo",NA,"Algo","Nada",NA,8
+"Hombre",54,"Matthei","Desaprueba","Algo","Poca",7,7
+"Mujer",28,"Matthei","Desaprueba","No muy","Poca",9,7
+"Hombre",63,"No vota","Desaprueba","Bastante","Poca",6,5
+"Hombre",79,"Kast","Desaprueba","Bastante","Bastante",8,9
+"Mujer",22,"Jara","Desaprueba","Nada","Nada",5,9
+"Mujer",68,"Matthei","Desaprueba","Nada","Nada",1,9
+"Mujer",42,"Matthei","Desaprueba","Nada","Nada",NA,3
+"Hombre",69,"Jara","Aprueba","Nada","Nada",5,10
+"Hombre",35,"Kaiser","Desaprueba","Algo","Poca",5,9
+"Mujer",71,"No vota","Ni aprueba ni desaprueba","Nada","Poca",5,10
+"Mujer",84,"Nulo",NA,"Nada","Nada",NA,7
+"Mujer",29,"Nulo","Desaprueba","Algo","Nada",NA,8
+"Mujer",80,"Nulo",NA,"Nada","Nada",NA,10
+"Hombre",38,"Kast","Desaprueba","Algo","Poca",NA,10
+"Mujer",37,"Parisi","Aprueba","Algo","Poca",NA,10
+"Mujer",45,"Matthei","Ni aprueba ni desaprueba","Nada","Nada",NA,7
+"Mujer",19,"Jara","Desaprueba","Algo","Nada",NA,8
+"Mujer",56,"Matthei","Ni aprueba ni desaprueba","Nada","Nada",NA,2
+"Hombre",51,"Nulo","Desaprueba","No muy","Nada",5,6
+"Mujer",57,"Jara","Aprueba","Algo","Nada",3,7
+"Hombre",32,"Enríquez-Ominami","Ni aprueba ni desaprueba","Algo","Poca",5,9
+"Mujer",34,"Jara","Aprueba","Bastante","Poca",2,8
+"Mujer",49,"No vota","Ni aprueba ni desaprueba","Bastante","Nada",5,7
+"Mujer",63,"Jara","Aprueba","Nada","Nada",NA,4
+"Hombre",40,"Jara","Aprueba","Algo","Poca",4,7
+"Mujer",63,"No vota","Desaprueba","Nada",NA,5,6
+"Mujer",30,"Parisi","Desaprueba","No muy","Poca",5,7
+"Hombre",39,"Kast","Desaprueba","Algo","Nada",5,7
+"Mujer",79,"Jara","Ni aprueba ni desaprueba","No muy","Poca",NA,10
+"Mujer",54,"No vota","Ni aprueba ni desaprueba","Nada","Nada",5,9
+"Hombre",34,"Artés","Aprueba","Nada","Bastante",5,7
+"Mujer",65,"Blanco","Ni aprueba ni desaprueba","No muy","Nada",6,7
+"Mujer",59,"Blanco","Desaprueba","Algo","Nada",1,10
+"Hombre",37,"Kaiser","Desaprueba","No muy","Nada",8,6
+"Mujer",34,"Jara","Aprueba","Muy interesado","Bastante",1,8
+"Hombre",57,"Jara","Aprueba","Muy interesado","Poca",1,10
+"Hombre",74,"Kaiser","Desaprueba","Algo","Poca",10,10
+"Hombre",57,"Kaiser","Desaprueba","Algo","Nada",5,7
+"Mujer",33,"Jara","Aprueba","Bastante","Poca",3,7
+"Mujer",38,"Matthei","Desaprueba","Bastante","Nada",5,6
+"Hombre",29,"Jara","Aprueba","Algo","Poca",4,5
+"Hombre",38,"Kaiser","Ni aprueba ni desaprueba","Muy interesado","Nada",NA,7
+"Hombre",28,"Jara","Aprueba","Muy interesado","Nada",4,7
+"Mujer",61,"Matthei","Desaprueba","Muy interesado","Nada",5,10
+"Mujer",35,"Jara","Aprueba","Muy interesado","Nada",1,7
+"Hombre",44,"Jara","Aprueba","Bastante","Poca",5,10
+"Mujer",65,"Mayne-Nicholls","Aprueba","Algo","Poca",5,7
+"Hombre",30,"Jara","Aprueba","Bastante","Poca",3,10
+"Hombre",26,"Parisi","Desaprueba","Algo","Mucha",5,10
+"Mujer",84,"Nulo","Aprueba","Nada","Poca",NA,7
+"Mujer",76,"Jara","Ni aprueba ni desaprueba","Algo","Poca",4,8
+"Hombre",21,"Mayne-Nicholls","Aprueba","Algo","Poca",NA,8
+"Hombre",56,"Matthei","Desaprueba","Bastante","Nada",5,7
+"Hombre",60,"Mayne-Nicholls","Aprueba","No muy","Nada",5,10
+"Mujer",56,"Matthei","Desaprueba","Algo","Nada",4,5
+"Mujer",27,"Mayne-Nicholls","Aprueba","No muy","Poca",5,9
+"Mujer",62,"Jara","Aprueba","Algo","Poca",5,5
+"Hombre",26,"Jara","Aprueba","Muy interesado","Nada",3,7
+"Mujer",33,"Kast",NA,"Algo","Nada",6,6
+"Mujer",35,"Parisi","Desaprueba","No muy","Nada",5,7
+"Hombre",65,"Jara","Desaprueba","Algo","Nada",10,4
+"Mujer",62,"No vota","Ni aprueba ni desaprueba","Nada","Nada",5,10
+"Mujer",38,"Parisi",NA,"Nada","Nada",5,NA
+"Mujer",52,"Jara","Aprueba","Algo","Poca",1,4
+"Hombre",53,"Matthei","Aprueba","Algo","Poca",5,7
+"Hombre",60,"Kast","Desaprueba","Nada","Poca",10,1
+"Hombre",43,"Mayne-Nicholls","Aprueba","Algo","Nada",5,7
+"Mujer",21,"Kast","Desaprueba","Algo","Nada",NA,8
+"Mujer",84,"Jara","Aprueba","Bastante","Poca",1,10
+"Hombre",56,"Kast","Desaprueba","Algo","Poca",9,2
+"Mujer",25,"Mayne-Nicholls","Ni aprueba ni desaprueba","Bastante","Poca",6,8
+"Mujer",19,"Matthei","Desaprueba","No muy","Poca",5,8
+"Mujer",72,"No vota","Ni aprueba ni desaprueba","Nada","Nada",NA,10
+"Mujer",68,"Kaiser","Desaprueba","Nada","Nada",5,9
+"Hombre",41,"Parisi","Desaprueba","Bastante","Nada",10,5
+"Hombre",81,"Kast","Ni aprueba ni desaprueba","Muy interesado","Nada",6,7
+"Hombre",19,"No vota","Desaprueba","Nada","Poca",5,9
+"Mujer",65,"No vota","Aprueba","Nada",NA,NA,5
+"Mujer",49,"Jara","Aprueba","Muy interesado","Bastante",1,10
+"Hombre",65,"Parisi","Desaprueba","Bastante","Poca",5,7
+"Mujer",63,"Parisi","Aprueba","Nada","Nada",NA,10
+"Mujer",55,"Kast","Desaprueba","No muy","Nada",5,10
+"Mujer",55,"Kast","Desaprueba","Bastante","Nada",10,7
+"Mujer",37,"Jara","Aprueba","Bastante","Poca",5,6
+"Hombre",50,"Matthei","Aprueba","Bastante","Poca",5,5
+"Hombre",67,"Nulo","Desaprueba","Nada","Nada",4,2
+"Hombre",48,"Jara","Aprueba","No muy","Nada",NA,8
+"Hombre",27,"Blanco","Aprueba","Algo","Poca",NA,7
+"Hombre",56,"Jara","Aprueba","Bastante","Poca",5,6
+"Hombre",80,"Jara","Desaprueba","Nada","Poca",5,2
+"Hombre",54,"Matthei","Desaprueba","Algo","Poca",6,5
+"Mujer",54,"Jara","Aprueba","Algo","Nada",4,7
+"Hombre",49,"Jara","Aprueba","Bastante","Poca",1,8
+"Mujer",34,"Jara","Aprueba","Bastante","Poca",4,6
+"Mujer",58,"Parisi","Aprueba","Algo","Nada",7,7
+"Hombre",33,"Kast","Desaprueba","No muy","Poca",6,7
+"Mujer",64,"Jara","Aprueba","Algo","Bastante",4,7
+"Hombre",50,"Artés","Desaprueba","Muy interesado","Poca",5,5
+"Hombre",70,"Jara","Desaprueba","Nada","Nada",NA,1
+"Mujer",31,"Jara","Aprueba","Bastante","Poca",1,6
+"Mujer",46,"Kast","Desaprueba","No muy","Poca",7,10
+"Mujer",84,"Matthei","Aprueba","Muy interesado","Poca",1,10
+"Hombre",19,"No vota","Aprueba","Nada","Poca",5,10
+"Hombre",73,"Matthei","Desaprueba","No muy","Nada",7,8
+"Mujer",28,"Jara","Desaprueba","Nada","Nada",5,8
+"Hombre",38,"Kast","Desaprueba","Bastante","Poca",10,9
+"Mujer",89,"Jara","Desaprueba","Nada","Poca",1,10
+"Mujer",64,"No vota","Desaprueba","Algo","Nada",6,6
+"Hombre",57,"Kaiser","Desaprueba","Muy interesado","Poca",10,2
+"Hombre",89,"No vota","Aprueba","Nada","Poca",5,6
+"Mujer",61,"Kast","Desaprueba","Algo","Nada",7,8
+"Hombre",56,"Blanco","Aprueba","Bastante","Poca",1,8
+"Mujer",65,"Blanco","Desaprueba","Nada","Poca",5,9
+"Mujer",68,"Parisi","Desaprueba","Algo","Nada",5,7
+"Mujer",30,"Kast","Desaprueba","Algo","Poca",5,4
+"Hombre",46,"Kast","Desaprueba","No muy","Nada",5,10
+"Hombre",25,"Parisi","Desaprueba","Muy interesado","Nada",5,5
+"Mujer",77,"Jara","Desaprueba","Nada","Nada",5,1
+"Hombre",64,"No vota","Desaprueba","Nada","Nada",5,1
+"Mujer",30,"Jara","Aprueba","Algo","Nada",4,7
+"Mujer",52,"Jara","Aprueba","Muy interesado","Poca",1,8
+"Mujer",57,"Blanco","Desaprueba","Nada","Nada",NA,10
+"Mujer",60,"Kaiser","Desaprueba","No muy","Nada",5,6
+"Hombre",67,"Matthei","Desaprueba","Algo","Nada",4,8
+"Mujer",49,"Kast","Desaprueba","Algo","Nada",10,7
+"Mujer",59,"Jara","Aprueba","No muy","Nada",4,5
+"Hombre",81,"Jara","Aprueba","Algo","Bastante",1,8
+"Mujer",56,"Parisi","Desaprueba","Algo","Poca",5,5
+"Mujer",61,"Blanco","Desaprueba","Nada","Poca",NA,8
+"Hombre",43,"Nulo","Desaprueba","Algo","Nada",2,7
+"Mujer",63,"Parisi","Ni aprueba ni desaprueba","Algo","Nada",5,10
+"Hombre",55,"Matthei","Desaprueba","Muy interesado","Poca",7,7
+"Hombre",44,"Jara","Aprueba","Muy interesado","Poca",1,8
+"Mujer",40,"Matthei","Desaprueba","Algo","Nada",NA,7
+"Mujer",25,"Blanco",NA,"Algo","Poca",NA,10
+"Mujer",53,"Nulo","Desaprueba","Algo","Poca",NA,5
+"Hombre",52,"Jara","Ni aprueba ni desaprueba","Algo",NA,NA,10
+"Hombre",41,"Parisi","Desaprueba","Bastante","Nada",5,9
+"Mujer",56,"Kast","Desaprueba","Nada","Nada",NA,7
+"Hombre",61,"Matthei","Desaprueba","Nada","Nada",10,5
+"Hombre",59,"Parisi","Desaprueba","Algo","Poca",5,7
+"Hombre",52,"Matthei","Desaprueba","Bastante","Nada",9,9
+"Mujer",65,"Nulo",NA,"Algo","Nada",5,5
+"Mujer",62,"No vota","Aprueba","No muy","Poca",5,8
+"Hombre",54,"Nulo",NA,"Bastante","Nada",10,6
+"Hombre",76,"Nulo","Desaprueba","No muy","Nada",1,7
+"Hombre",78,"Jara","Aprueba","No muy","Nada",4,10
+"Mujer",81,"No vota",NA,"No muy","Poca",5,8
+"Mujer",72,"Jara","Aprueba","No muy","Nada",7,7
+"Mujer",55,"Matthei","Desaprueba","Nada","Nada",NA,7
+"Hombre",24,"Parisi","Desaprueba","Bastante","Poca",9,10
+"Mujer",30,"Blanco","Desaprueba","Algo","Nada",NA,10
+"Mujer",60,"Kast","Desaprueba","Nada","Nada",NA,10
+"Hombre",43,"Jara","Aprueba","Bastante","Poca",NA,8
+"Hombre",67,"Jara","Aprueba","Bastante","Poca",1,10
+"Mujer",66,"Mayne-Nicholls","Desaprueba","Nada","Nada",NA,10
+"Mujer",36,"No vota","Desaprueba","Nada","Nada",5,9
+"Hombre",63,"Jara","Aprueba","No muy","Poca",1,7
+"Mujer",30,"No vota","Desaprueba","Algo","Nada",10,10
+"Mujer",62,"Kast","Desaprueba","Nada","Nada",NA,10
+"Mujer",67,"Kaiser","Desaprueba","Muy interesado","Poca",9,10
+"Mujer",36,"Parisi","Desaprueba","Algo","Nada",5,8
+"Hombre",86,"Matthei","Desaprueba","Algo","Nada",5,5
+"Hombre",37,"Jara","Aprueba","Algo","Nada",4,6
+"Hombre",47,"No vota","Ni aprueba ni desaprueba","Algo","Nada",5,5
+"Mujer",66,"Nulo",NA,"No muy","Nada",NA,9
+"Mujer",47,"Kast","Desaprueba","No muy","Nada",7,5
+"Hombre",41,"No vota","Aprueba","Nada","Nada",10,10
+"Mujer",73,"Matthei","Desaprueba","Nada","Nada",NA,8
+"Hombre",55,"Kast","Desaprueba","No muy","Nada",8,3
+"Hombre",81,"Kast","Desaprueba","Algo","Bastante",8,7
+"Hombre",53,"Parisi","Desaprueba","Nada","Nada",1,1
+"Mujer",30,"Matthei","Desaprueba","Algo","Nada",7,5
+"Hombre",65,"Kast","Desaprueba","Nada","Nada",5,5
+"Mujer",82,"Kast","Aprueba","Nada","Poca",6,10
+"Hombre",19,"Blanco","Desaprueba","Nada","Nada",7,8
+"Mujer",35,"Jara","Aprueba","Muy interesado","Poca",1,10
+"Mujer",22,"Kaiser","Aprueba","Bastante","Poca",5,9
+"Mujer",57,"No vota",NA,"Nada","Nada",NA,7
+"Mujer",70,"Matthei","Desaprueba","Nada","Nada",5,5
+"Mujer",21,"Jara","Aprueba","Algo","Poca",5,5
+"Hombre",62,"Jara","Aprueba","Bastante","Poca",1,5
+"Hombre",80,"Matthei","Desaprueba","Nada","Nada",9,10
+"Hombre",68,"Kast","Desaprueba",NA,"Nada",10,10
+"Mujer",45,"No vota","Desaprueba","No muy","Poca",6,10
+"Mujer",71,"Nulo","Desaprueba","Nada","Nada",10,10
+"Hombre",75,"Kast","Desaprueba","Nada","Nada",10,10
+"Mujer",54,"Nulo",NA,"Muy interesado",NA,NA,10
+"Mujer",53,"Kast","Desaprueba","Nada","Poca",10,10
+"Hombre",62,"Matthei","Desaprueba","Nada","Nada",5,5
+"Mujer",50,"Jara","Aprueba","Bastante","Nada",10,8
+"Hombre",63,"Jara","Aprueba","Nada","Nada",1,10
+"Mujer",21,"Nulo","Desaprueba","Nada","Nada",5,10
+"Mujer",47,"Enríquez-Ominami","Desaprueba","No muy","Poca",5,10
+"Mujer",56,"Nulo","Desaprueba","Nada","Nada",NA,10
+"Mujer",67,"Nulo",NA,"No muy","Nada",NA,8
+"Hombre",47,"Jara","Aprueba","No muy","Nada",1,10
+"Mujer",28,"Kast","Desaprueba","Nada","Nada",5,10
+"Mujer",75,"Jara","Aprueba","Muy interesado","Nada",NA,8
+"Mujer",47,"No vota","Desaprueba","Nada","Nada",5,1
+"Mujer",55,"Kast","Desaprueba","No muy","Poca",7,7
+"Mujer",63,"No vota","Desaprueba","Nada","Poca",5,10
+"Hombre",59,"Kaiser","Desaprueba","Algo","Nada",9,6
+"Mujer",49,"Kaiser","Aprueba","Bastante","Poca",5,6
+"Mujer",28,"Matthei","Aprueba","Algo","Nada",3,7
+"Hombre",52,"Kast","Desaprueba","No muy","Nada",NA,10
+"Mujer",18,"Matthei","Desaprueba","Nada","Nada",5,10
+"Mujer",62,"Nulo","Desaprueba","Nada","Nada",NA,2
+"Hombre",34,"Kast","Desaprueba","Muy interesado","Poca",10,6
+"Hombre",62,"No vota","Desaprueba","Algo",NA,10,5
+"Hombre",50,"Matthei","Desaprueba","Nada","Nada",5,6
+"Hombre",35,"Parisi","Desaprueba","Nada","Nada",5,8
+"Hombre",83,"Matthei","Desaprueba","No muy","Nada",7,5
+"Mujer",27,"Kast","Desaprueba","Nada",NA,NA,10
+"Mujer",32,"Kast","Aprueba","No muy","Nada",5,5
+"Hombre",52,"Kast","Desaprueba","Nada","Nada",10,1
+"Hombre",58,"No vota","Desaprueba","Nada","Nada",5,7
+"Mujer",50,"Kast","Desaprueba","No muy","Nada",6,7
+"Mujer",21,"Parisi","Desaprueba","Algo","Poca",5,8
+"Mujer",55,"Kast","Desaprueba","No muy","Nada",6,9
+"Mujer",38,"Jara","Desaprueba","Nada","Poca",5,6
+"Mujer",45,"Kast","Desaprueba","Nada","Nada",5,10
+"Mujer",54,"Matthei","Aprueba","Algo","Poca",5,3
+"Mujer",60,"Jara","Desaprueba","Nada","Nada",NA,6
+"Mujer",52,"Kast","Desaprueba","Muy interesado","Poca",10,6
+"Mujer",48,"Jara","Aprueba","Muy interesado","Nada",5,8
+"Mujer",23,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",NA,7
+"Mujer",26,"Jara","Ni aprueba ni desaprueba","Algo","Nada",NA,5
+"Mujer",83,"Matthei","Desaprueba","Nada","Nada",NA,6
+"Mujer",73,"Nulo","Aprueba","Nada","Poca",NA,10
+"Hombre",75,"Kast","Desaprueba","Nada","Poca",10,10
+"Hombre",30,"Parisi","Desaprueba","Nada","Nada",5,5
+"Hombre",44,"Nulo","Desaprueba","Nada","Nada",5,10
+"Mujer",25,"Mayne-Nicholls","Aprueba","Nada","Nada",1,7
+"Mujer",70,"Kast","Desaprueba","Nada","Nada",10,8
+"Mujer",65,"Jara","Aprueba","Algo","Poca",5,6
+"Mujer",67,"Mayne-Nicholls","Aprueba","Nada","Nada",4,5
+"Mujer",63,"Kast","Desaprueba","Muy interesado","Poca",NA,5
+"Mujer",53,"Parisi","Desaprueba","Algo","Nada",5,9
+"Hombre",58,"Kast","Desaprueba","Nada","Nada",NA,2
+"Mujer",42,"Parisi","Desaprueba","Nada","Nada",NA,8
+"Hombre",76,"Jara","Aprueba","No muy","Nada",10,10
+"Mujer",42,"Kast","Desaprueba","Nada","Nada",5,5
+"Mujer",27,"Jara","Aprueba","Muy interesado","Poca",4,4
+"Mujer",30,"Enríquez-Ominami","Aprueba","Algo","Poca",5,8
+"Mujer",29,"Kast","Desaprueba","Nada","Nada",5,10
+"Mujer",44,"Nulo","Desaprueba","No muy","Poca",NA,7
+"Hombre",68,"Jara","Desaprueba","Nada","Nada",NA,10
+"Hombre",21,"Kaiser","Aprueba","Algo","Poca",NA,8
+"Mujer",63,"Nulo","Desaprueba","Algo","Nada",6,6
+"Hombre",75,"Kaiser","Desaprueba","No muy","Nada",1,3
+"Mujer",32,"Jara","Aprueba","Algo","Nada",NA,10
+"Hombre",68,"Mayne-Nicholls","Aprueba","Algo","Poca",5,10
+"Mujer",65,"Matthei","Aprueba","Algo","Nada",10,6
+"Mujer",73,"Blanco","Ni aprueba ni desaprueba","Nada","Poca",NA,6
+"Mujer",56,"Kast","Desaprueba","Nada","Nada",6,2
+"Mujer",50,"Kast","Desaprueba","Nada","Poca",5,1
+"Hombre",64,"Parisi","Desaprueba","Nada","Nada",6,7
+"Hombre",40,"Matthei","Desaprueba","Bastante","Nada",4,8
+"Mujer",48,"Matthei","Desaprueba","Muy interesado","Nada",4,9
+"Mujer",55,"Matthei","Ni aprueba ni desaprueba","Algo","Poca",6,8
+"Hombre",55,"Matthei","Desaprueba","Muy interesado","Poca",NA,10
+"Mujer",50,"Blanco","Ni aprueba ni desaprueba","Algo","Poca",NA,8
+"Hombre",64,"Jara","Desaprueba","Nada","Nada",6,8
+"Hombre",30,"Kast","Desaprueba","Algo","Nada",NA,10
+"Mujer",65,"Blanco","Desaprueba","Nada","Nada",NA,8
+"Hombre",22,"Jara","Desaprueba","Algo","Nada",NA,8
+"Mujer",67,"Blanco","Desaprueba","Nada","Poca",NA,2
+"Hombre",52,"Parisi","Desaprueba","Nada","Nada",NA,8
+"Mujer",60,"Blanco","Desaprueba","Nada","Nada",NA,10
+"Hombre",35,"Blanco","Desaprueba","Nada","Nada",NA,6
+"Mujer",48,"Matthei","Desaprueba","Nada","Nada",10,9
+"Hombre",37,"Jara","Aprueba","Algo","Poca",5,8
+"Mujer",32,"Parisi","Desaprueba","Nada","Nada",3,5
+"Mujer",43,"Kaiser","Desaprueba","Muy interesado","Nada",NA,10
+"Hombre",18,"Kaiser","Desaprueba","Algo","Nada",NA,8
+"Mujer",45,"Kast","Desaprueba","Algo","Poca",NA,6
+"Mujer",49,"Blanco","Desaprueba","Algo",NA,NA,8
+"Mujer",59,"Blanco","Desaprueba","Nada","Nada",NA,6
+"Mujer",32,"Kast","Desaprueba","Algo","Nada",10,8
+"Mujer",46,"Kast","Desaprueba","Algo","Nada",NA,9
+"Mujer",20,"Parisi","Desaprueba","No muy","Nada",NA,10
+"Mujer",33,"Blanco","Desaprueba","Nada","Poca",NA,10
+"Mujer",58,"Parisi","Desaprueba","No muy","Poca",5,7
+"Mujer",47,"No vota","Desaprueba","Nada","Nada",5,5
+"Hombre",38,"Jara",NA,"Nada","Nada",1,10
+"Hombre",35,"Nulo","Desaprueba","Algo","Nada",6,10
+"Mujer",66,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",5,8
+"Hombre",43,"Matthei","Desaprueba","No muy","Poca",9,9
+"Hombre",44,"Jara","Aprueba","Muy interesado","Poca",2,8
+"Mujer",71,"Jara","Aprueba","Muy interesado","Nada",1,10
+"Hombre",60,"Kaiser","Desaprueba","Muy interesado","Poca",10,10
+"Hombre",50,"Blanco","Desaprueba","Nada","Poca",NA,6
+"Mujer",48,"Jara","Desaprueba","Algo","Nada",NA,8
+"Mujer",52,"Kast","Desaprueba","Algo","Nada",10,9
+"Hombre",44,"Matthei","Desaprueba","No muy","Nada",5,7
+"Hombre",33,"Kast","Desaprueba","Algo","Poca",7,5
+"Hombre",26,"No vota","Aprueba","Algo","Poca",5,5
+"Hombre",22,"Jara","Aprueba","Algo","Nada",3,4
+"Mujer",65,"Nulo","Desaprueba","Nada","Poca",5,4
+"Mujer",39,"No vota","Ni aprueba ni desaprueba","Nada","Nada",NA,6
+"Hombre",84,"Jara","Desaprueba","Algo","Poca",5,4
+"Hombre",56,"Kast","Desaprueba","Nada","Nada",NA,7
+"Hombre",68,"Jara","Aprueba","Nada","Poca",2,7
+"Mujer",64,"Nulo","Desaprueba","Nada","Nada",5,9
+"Mujer",75,"Jara","Aprueba","No muy","Poca",5,9
+"Mujer",59,"Parisi","Desaprueba","Nada","Poca",10,5
+"Mujer",33,"Jara","Aprueba","No muy","Nada",5,7
+"Mujer",50,"Kast","Desaprueba","Nada","Nada",5,8
+"Mujer",63,"Matthei","Aprueba","No muy","Poca",5,4
+"Mujer",63,"Kaiser","Desaprueba","Nada","Nada",8,5
+"Mujer",27,"Nulo","Desaprueba","Algo","Bastante",5,10
+"Mujer",58,"Parisi","Desaprueba","Algo","Poca",4,3
+"Mujer",56,"Jara","Desaprueba","Algo","Nada",5,10
+"Hombre",69,"Kaiser","Desaprueba","Nada","Nada",8,6
+"Mujer",65,"Jara","Aprueba","Nada","Nada",2,6
+"Mujer",47,"Kast","Desaprueba","No muy","Poca",5,8
+"Mujer",34,"Kast","Desaprueba","Bastante","Poca",10,5
+"Hombre",69,"Jara","Aprueba","Muy interesado","Nada",10,10
+"Mujer",75,"Jara","Desaprueba","Nada","Poca",8,4
+"Hombre",64,"Jara","Aprueba","Bastante","Nada",6,4
+"Mujer",34,"Matthei","Desaprueba","Nada","Nada",5,7
+"Hombre",55,"No vota",NA,"Nada","Poca",4,3
+"Mujer",57,"Matthei","Desaprueba","No muy","Mucha",5,4
+"Mujer",90,"Kast","Desaprueba","No muy","Nada",10,2
+"Mujer",56,"Kast","Desaprueba","Algo","Poca",5,5
+"Mujer",90,"Matthei","Aprueba","No muy","Nada",10,7
+"Mujer",50,"Kaiser","Desaprueba","Algo","Poca",5,4
+"Mujer",30,"Parisi","Desaprueba","Nada","Nada",5,10
+"Mujer",43,"Kast","Desaprueba","Algo","Nada",10,10
+"Mujer",56,"Nulo","Desaprueba","Nada","Nada",NA,7
+"Mujer",36,"Enríquez-Ominami","Aprueba","Algo","Poca",1,10
+"Mujer",90,"Blanco","Aprueba","Nada","Nada",NA,10
+"Mujer",18,"Jara","Desaprueba","Nada","Nada",5,9
+"Hombre",36,"Artés",NA,"Bastante","Nada",4,8
+"Mujer",59,"Kast","Desaprueba","Muy interesado","Nada",10,8
+"Hombre",78,"Jara","Aprueba","Algo","Poca",NA,5
+"Mujer",58,"Blanco","Desaprueba","Algo","Poca",1,10
+"Mujer",60,"Kast","Desaprueba","No muy","Nada",1,10
+"Mujer",44,"Matthei","Desaprueba","Bastante","Nada",5,7
+"Mujer",20,"Parisi","Desaprueba","No muy","Poca",5,10
+"Mujer",69,"Parisi","Desaprueba","No muy",NA,9,10
+"Mujer",37,"Kast","Desaprueba","Algo","Nada",5,7
+"Mujer",79,"Kast","Desaprueba","No muy","Nada",5,10
+"Hombre",70,"Jara","Aprueba","Muy interesado","Poca",2,8
+"Mujer",47,"Kast","Desaprueba","No muy","Poca",6,10
+"Mujer",55,"Kaiser","Desaprueba","No muy","Nada",NA,5
+"Mujer",42,"Kast","Desaprueba","No muy","Poca",NA,9
+"Hombre",25,"Nulo","Ni aprueba ni desaprueba","No muy","Poca",5,10
+"Hombre",25,"Parisi","Desaprueba","Nada","Nada",5,10
+"Mujer",23,"Kast","Aprueba","Algo","Poca",5,10
+"Hombre",62,"Nulo","Desaprueba","Nada","Nada",5,7
+"Mujer",53,"Jara","Desaprueba","Nada","Nada",6,10
+"Hombre",41,"Jara","Aprueba","No muy","Poca",5,10
+"Mujer",42,"Kast","Desaprueba","Algo","Nada",8,9
+"Mujer",65,"Blanco","Ni aprueba ni desaprueba","Nada","Poca",5,10
+"Hombre",31,"Parisi","Desaprueba","Nada","Nada",NA,10
+"Hombre",20,"Jara","Desaprueba","Bastante","Nada",3,6
+"Mujer",68,"Nulo","Aprueba","Algo","Nada",NA,8
+"Hombre",66,"Jara","Aprueba","Nada","Nada",1,10
+"Mujer",38,"No vota","Aprueba","Nada","Poca",4,4
+"Hombre",22,"Kaiser","Desaprueba","Nada","Poca",6,7
+"Hombre",38,"Nulo","Desaprueba","Nada","Nada",5,5
+"Mujer",34,"Jara","Desaprueba","Nada","Nada",5,5
+"Mujer",51,"Kast","Desaprueba","No muy","Nada",5,9
+"Mujer",35,"Kast","Desaprueba","Algo","Nada",5,7
+"Mujer",51,"Matthei","Desaprueba","Algo","Poca",8,7
+"Mujer",63,"Kast","Desaprueba","Bastante","Nada",NA,10
+"Mujer",21,"Jara","Aprueba","No muy","Poca",5,6
+"Hombre",85,"Blanco","Ni aprueba ni desaprueba","Nada",NA,NA,7
+"Mujer",22,"Kast",NA,"No muy",NA,10,7
+"Mujer",32,"No vota","Desaprueba","Nada","Nada",5,5
+"Hombre",36,"Jara","Desaprueba","No muy","Poca",5,10
+"Mujer",30,"Parisi","Desaprueba","Algo","Nada",5,10
+"Mujer",57,"Kast",NA,"Nada","Poca",NA,6
+"Mujer",50,"Kast","Desaprueba","Nada","Nada",6,7
+"Mujer",67,"Nulo",NA,"Nada","Nada",NA,9
+"Mujer",39,"Kast","Desaprueba","Muy interesado","Poca",10,8
+"Mujer",68,"Matthei","Aprueba","Nada","Nada",10,10
+"Hombre",63,"No vota",NA,"Nada","Nada",10,5
+"Mujer",33,"Nulo","Desaprueba","Algo","Nada",5,8
+"Mujer",40,"Parisi","Desaprueba","No muy","Poca",5,10
+"Mujer",40,"Parisi","Desaprueba","Algo","Poca",5,6
+"Hombre",46,"Matthei","Desaprueba","Muy interesado","Nada",6,5
+"Hombre",37,"Parisi","Desaprueba","Algo","Nada",5,10
+"Hombre",45,"Kaiser","Desaprueba","Algo","Nada",10,10
+"Mujer",46,"Kaiser","Desaprueba","Algo","Nada",NA,10
+"Mujer",26,"Jara","Aprueba","Bastante","Poca",NA,10
+"Hombre",18,"Parisi","Desaprueba","Algo","Poca",NA,7
+"Mujer",54,"Jara","Aprueba","No muy","Poca",5,8
+"Hombre",66,"Kaiser","Desaprueba","Algo","Nada",10,8
+"Mujer",78,"Jara","Ni aprueba ni desaprueba","Nada","Nada",NA,9
+"Mujer",34,"Blanco","Aprueba","Algo","Nada",NA,10
+"Hombre",52,"Jara","Desaprueba","Nada","Nada",5,8
+"Hombre",22,"Matthei","Aprueba","Muy interesado","Poca",4,10
+"Mujer",26,"Kast","Desaprueba","Bastante","Poca",5,8
+"Mujer",37,"Enríquez-Ominami","Desaprueba","Algo","Nada",5,6
+"Mujer",45,"Matthei","Desaprueba","Algo","Nada",7,10
+"Hombre",29,"Jara","Aprueba","Bastante","Bastante",1,7
+"Hombre",43,"Matthei","Desaprueba","Bastante","Poca",7,5
+"Hombre",60,"Kast","Desaprueba","Bastante","Nada",10,5
+"Mujer",87,"Matthei","Desaprueba","No muy","Nada",10,2
+"Hombre",33,"Jara","Aprueba","Algo","Nada",1,7
+"Hombre",61,"Blanco","Desaprueba","No muy","Nada",10,8
+"Hombre",18,"No vota","Desaprueba","Nada","Nada",NA,6
+"Hombre",71,"Nulo","Desaprueba","Nada","Nada",NA,5
+"Mujer",63,"Matthei","Desaprueba","Nada","Nada",NA,5
+"Mujer",29,"Jara","Aprueba","Bastante","Poca",6,7
+"Mujer",66,"Blanco","Desaprueba","Nada","Nada",NA,10
+"Hombre",57,"Nulo","Desaprueba","Nada","Poca",5,7
+"Mujer",28,"Enríquez-Ominami","Aprueba","Algo","Nada",5,5
+"Mujer",25,"No vota","Desaprueba","No muy","Nada",5,7
+"Mujer",53,"Kast","Desaprueba","Nada","Nada",10,8
+"Mujer",52,"Jara",NA,"Nada","Poca",NA,8
+"Mujer",53,"Jara","Aprueba","Algo","Nada",5,6
+"Hombre",72,"Matthei","Desaprueba","Nada","Nada",3,1
+"Mujer",70,"Kaiser","Aprueba","Nada","Nada",6,8
+"Mujer",66,"Nulo",NA,"Nada","Nada",5,10
+"Hombre",37,"Jara","Aprueba","Muy interesado","Nada",1,6
+"Mujer",29,"No vota","Desaprueba","Algo","Nada",6,5
+"Mujer",84,"Jara","Aprueba",NA,NA,NA,10
+"Hombre",65,"Jara","Desaprueba","Algo","Nada",6,7
+"Mujer",32,"Kast","Desaprueba","Nada","Nada",5,8
+"Hombre",65,"Jara","Aprueba","Nada","Poca",2,10
+"Hombre",32,"No vota","Desaprueba","Algo","Nada",5,7
+"Mujer",37,"Kast","Desaprueba","Nada","Nada",NA,8
+"Hombre",24,"Jara","Aprueba","Algo","Poca",5,8
+"Mujer",32,"Kast","Desaprueba","Nada","Nada",5,7
+"Mujer",35,"Parisi","Desaprueba","Nada","Nada",2,5
+"Hombre",43,"Matthei","Ni aprueba ni desaprueba","Algo","Poca",10,10
+"Hombre",43,"Matthei","Desaprueba","Algo","Nada",8,10
+"Mujer",31,"Kast","Desaprueba","No muy","Poca",6,8
+"Hombre",37,"Kaiser","Desaprueba","Algo","Nada",7,5
+"Hombre",48,"Kast","Desaprueba","No muy","Nada",NA,10
+"Mujer",37,"Jara","Aprueba","Nada","Nada",6,7
+"Hombre",30,"Jara","Aprueba","Bastante","Nada",3,5
+"Hombre",37,NA,"Aprueba","Muy interesado","Mucha",5,1
+"Hombre",42,"Jara","Aprueba","Bastante","Poca",3,6
+"Mujer",62,"Matthei","Aprueba","Nada","Poca",5,5
+"Mujer",20,"Blanco",NA,"Nada","Nada",NA,10
+"Mujer",53,"Jara","Aprueba","No muy","Nada",NA,7
+"Mujer",30,"Jara","Desaprueba","Algo","Nada",NA,7
+"Hombre",35,"Jara","Desaprueba","Nada","Poca",NA,10
+"Mujer",31,"Kast","Desaprueba","Bastante","Poca",10,10
+"Hombre",35,"Kast","Desaprueba","No muy","Nada",3,5
+"Mujer",53,"Kast","Desaprueba","Nada","Nada",8,10
+"Hombre",69,"Kast","Desaprueba","Muy interesado","Nada",10,6
+"Mujer",29,"Kast","Desaprueba","Algo","Poca",NA,8
+"Mujer",28,"Mayne-Nicholls","Ni aprueba ni desaprueba","Algo","Nada",5,9
+"Mujer",29,"Matthei","Desaprueba","No muy","Nada",7,8
+"Hombre",67,"Jara","Aprueba","No muy","Nada",5,7
+"Hombre",55,"Jara","Desaprueba","Nada","Bastante",9,5
+"Mujer",75,"Enríquez-Ominami","Aprueba","Muy interesado","Poca",2,8
+"Mujer",47,"Matthei","Desaprueba","Nada","Nada",8,10
+"Hombre",44,"Kast","Desaprueba","Algo","Nada",9,8
+"Mujer",71,"Nulo","Desaprueba","Muy interesado","Nada",10,10
+"Mujer",85,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",5,5
+"Mujer",43,"Kast","Ni aprueba ni desaprueba","Algo","Nada",5,8
+"Hombre",69,"Matthei","Desaprueba","Algo","Nada",5,6
+"Mujer",36,"Jara","Desaprueba","Algo","Mucha",3,6
+"Hombre",42,"Parisi","Desaprueba","Muy interesado","Poca",6,10
+"Mujer",24,"Jara","Desaprueba","No muy","Bastante",5,7
+"Hombre",66,"Kast","Desaprueba","Algo","Nada",10,5
+"Mujer",58,"Kast","Desaprueba","Algo","Poca",9,6
+"Hombre",66,"No vota","Desaprueba","Nada","Nada",5,4
+"Hombre",40,"Kast","Desaprueba","Bastante","Poca",10,10
+"Hombre",55,"No vota","Ni aprueba ni desaprueba","Algo","Nada",5,8
+"Mujer",69,"Nulo","Desaprueba","Nada","Mucha",NA,1
+"Hombre",78,"Jara","Aprueba","Algo","Poca",5,5
+"Mujer",50,"Mayne-Nicholls","Aprueba","Muy interesado","Nada",1,7
+"Mujer",18,"Blanco","Aprueba","Algo","Poca",5,10
+"Mujer",18,"Kast","Desaprueba","Bastante","Bastante",7,10
+"Mujer",28,"Matthei","Desaprueba","No muy","Nada",7,7
+"Hombre",19,"Blanco",NA,"Algo","Poca",7,10
+"Hombre",63,"Nulo","Desaprueba","No muy","Nada",3,9
+"Mujer",61,"Kast","Desaprueba","Algo","Poca",9,7
+"Hombre",50,"Parisi","Desaprueba","Algo","Nada",5,5
+"Hombre",44,"Parisi","Desaprueba","Algo","Poca",6,7
+"Hombre",47,"Nulo",NA,"Nada","Nada",5,1
+"Hombre",26,"Parisi","Desaprueba","No muy","Nada",6,5
+"Mujer",66,"Jara","Aprueba","Algo","Poca",6,7
+"Hombre",33,"Kaiser","Desaprueba","Bastante","Poca",5,7
+"Mujer",35,"Jara","Aprueba","Bastante","Nada",4,6
+"Hombre",54,"Jara","Ni aprueba ni desaprueba","Algo","Nada",5,8
+"Mujer",33,"Parisi","Desaprueba","Nada","Nada",5,6
+"Hombre",41,"No vota","Desaprueba","No muy","Poca",6,10
+"Hombre",44,"Kast","Desaprueba","No muy","Poca",10,10
+"Hombre",18,"Blanco","Aprueba","Algo",NA,NA,10
+"Hombre",33,"Kast","Desaprueba","Algo","Poca",10,7
+"Hombre",47,"Parisi","Desaprueba","Nada","Nada",NA,5
+"Mujer",54,"Matthei","Desaprueba","No muy","Nada",5,7
+"Mujer",43,"Kast","Desaprueba","Bastante","Nada",5,7
+"Mujer",52,"Matthei","Desaprueba","Algo","Nada",7,2
+"Mujer",48,"Kast","Desaprueba","No muy","Nada",10,10
+"Mujer",29,"Parisi","Aprueba","Nada","Nada",5,10
+"Mujer",29,"Blanco","Desaprueba","Algo","Nada",NA,10
+"Hombre",71,"Kast","Desaprueba","Nada","Poca",5,1
+"Mujer",42,"Blanco","Desaprueba","No muy","Nada",NA,10
+"Mujer",53,"Matthei","Desaprueba","Algo","Nada",10,6
+"Hombre",29,"Blanco","Aprueba","Bastante","Nada",5,10
+"Hombre",70,"Matthei","Desaprueba","Nada",NA,6,5
+"Mujer",78,"Matthei","Desaprueba","Nada","Nada",10,8
+"Mujer",72,"Kast","Desaprueba","Nada","Nada",10,7
+"Hombre",48,"Kast","Desaprueba","Algo","Nada",10,8
+"Mujer",65,"Parisi","Desaprueba","Nada","Nada",5,6
+"Mujer",90,"No vota",NA,"Nada",NA,NA,7
+"Hombre",51,"No vota","Aprueba","Algo","Poca",2,9
+"Hombre",52,"Jara","Aprueba","Muy interesado","Nada",5,8
+"Hombre",67,"Kast","Desaprueba","Algo","Nada",5,7
+"Mujer",52,"Kast","Desaprueba","Algo","Poca",10,8
+"Hombre",50,"Nulo","Desaprueba","Algo","Nada",5,7
+"Mujer",66,"Nulo","Aprueba","Bastante","Nada",5,7
+"Mujer",49,"Enríquez-Ominami","Desaprueba","Algo","Nada",7,4
+"Mujer",49,"Kast","Desaprueba","Algo","Nada",1,5
+"Mujer",44,"Kaiser","Desaprueba","Nada","Poca",5,10
+"Mujer",82,"Blanco","Aprueba","No muy","Poca",5,10
+"Mujer",50,"Matthei","Desaprueba","Nada","Nada",10,10
+"Hombre",24,"No vota","Desaprueba","Nada","Nada",NA,8
+"Hombre",55,"Kast","Desaprueba","Algo","Bastante",7,8
+"Mujer",39,"Kaiser","Desaprueba","Nada","Nada",5,9
+"Hombre",26,"No vota","Desaprueba","Nada","Nada",NA,7
+"Mujer",34,"Kast","Desaprueba","Bastante","Nada",9,10
+"Mujer",65,"Parisi","Ni aprueba ni desaprueba","Algo","Poca",NA,9
+"Hombre",53,"Jara","Aprueba","No muy","Poca",3,8
+"Mujer",66,"Kast","Ni aprueba ni desaprueba","No muy","Poca",10,8
+"Mujer",76,"Jara","Aprueba","No muy","Poca",4,10
+"Hombre",88,"Kast","Desaprueba","Algo","Poca",8,9
+"Hombre",21,"Matthei","Desaprueba","Algo","Poca",7,9
+"Hombre",43,"Kast","Desaprueba","Muy interesado","Poca",7,7
+"Hombre",19,"Kast","Desaprueba","Bastante","Nada",8,7
+"Hombre",36,"Parisi","Desaprueba","Algo","Poca",6,10
+"Mujer",68,"Parisi","Desaprueba","Nada","Nada",7,7
+"Hombre",40,"Jara","Desaprueba","Nada","Nada",5,8
+"Hombre",57,"Kast","Desaprueba","No muy","Nada",5,10
+"Hombre",76,"No vota","Ni aprueba ni desaprueba","No muy","Nada",NA,7
+"Mujer",70,"Enríquez-Ominami","Aprueba","No muy","Poca",5,9
+"Mujer",24,"Nulo",NA,"No muy","Poca",5,7
+"Hombre",55,"Matthei","Desaprueba","Algo","Poca",5,7
+"Hombre",47,"Jara","Aprueba","Nada","Nada",5,6
+"Mujer",52,"Blanco",NA,"No muy",NA,NA,10
+"Hombre",30,"Jara","Desaprueba","Algo","Poca",5,7
+"Mujer",80,"Kast","Aprueba","Bastante","Poca",10,10
+"Mujer",47,"Jara","Aprueba","Algo","Poca",3,7
+"Mujer",52,"Parisi","Desaprueba","Bastante","Nada",5,9
+"Mujer",52,"Parisi","Desaprueba","Algo","Nada",NA,4
+"Mujer",73,"Jara","Aprueba","Muy interesado","Poca",1,10
+"Mujer",18,"Jara","Ni aprueba ni desaprueba","Algo","Nada",5,7
+"Mujer",30,"Jara","Desaprueba","No muy","Nada",NA,5
+"Mujer",32,"Kast","Desaprueba","Algo","Poca",7,7
+"Mujer",49,"Matthei","Desaprueba","Algo","Poca",7,8
+"Mujer",25,"Jara","Aprueba","Algo","Nada",5,7
+"Mujer",65,"Jara",NA,"Nada","Nada",NA,10
+"Hombre",24,"Parisi","Aprueba","No muy","Poca",5,6
+"Hombre",48,"Blanco","Desaprueba","Nada",NA,NA,10
+"Mujer",85,"Jara","Aprueba","Muy interesado","Nada",2,7
+"Mujer",51,"Kast","Desaprueba","Nada","Nada",6,6
+"Mujer",25,"Blanco","Aprueba","Algo","Nada",NA,5
+"Mujer",19,"Parisi","Desaprueba","Bastante","Poca",1,5
+"Hombre",57,"Jara","Ni aprueba ni desaprueba","Nada","Poca",5,10
+"Hombre",39,"Kast","Aprueba","Algo","Poca",7,7
+"Mujer",59,"Kaiser","Desaprueba","No muy","Nada",10,5
+"Hombre",43,"Kaiser","Desaprueba","Bastante","Nada",1,8
+"Hombre",47,"Kast","Desaprueba","Bastante","Nada",6,7
+"Mujer",66,"Kast","Desaprueba","No muy","Nada",10,5
+"Mujer",30,"Kast","Desaprueba","Algo","Nada",8,5
+"Mujer",28,"No vota","Ni aprueba ni desaprueba","Nada","Nada",5,6
+"Mujer",55,"Matthei","Desaprueba","Muy interesado","Poca",5,7
+"Hombre",48,"Matthei","Desaprueba","Bastante","Poca",4,3
+"Mujer",79,"Kast","Desaprueba","Nada","Nada",10,5
+"Hombre",37,"Jara","Aprueba","No muy","Nada",5,7
+"Mujer",60,"Jara","Aprueba","Bastante","Nada",5,8
+"Hombre",38,"Kaiser","Desaprueba","Muy interesado","Nada",7,8
+"Mujer",81,"Enríquez-Ominami","Desaprueba","No muy","Nada",5,1
+"Hombre",24,"Jara","Aprueba","Bastante","Bastante",1,8
+"Mujer",38,"Jara","Aprueba","Bastante","Nada",1,5
+"Mujer",24,"Jara","Aprueba","Muy interesado","Nada",1,7
+"Hombre",28,"Jara","Aprueba","Bastante","Bastante",1,9
+"Mujer",29,"Kast","Aprueba","Algo","Nada",NA,9
+"Hombre",25,"Jara","Ni aprueba ni desaprueba","No muy","Poca",NA,7
+"Mujer",72,"Jara","Aprueba","Muy interesado","Poca",5,5
+"Hombre",63,"Jara","Aprueba","No muy","Nada",7,10
+"Hombre",44,"Kaiser","Desaprueba","Nada","Poca",NA,6
+"Hombre",75,"Jara","Aprueba","Bastante","Poca",1,6
+"Mujer",63,"Blanco",NA,"Nada","Nada",NA,8
+"Hombre",76,"Kast","Desaprueba","Nada","Nada",NA,10
+"Hombre",36,"No vota","Aprueba","Algo","Poca",6,7
+"Mujer",24,"Matthei","Desaprueba","Nada","Nada",7,5
+"Hombre",65,"Blanco","Desaprueba","Nada","Nada",NA,5
+"Mujer",59,"Jara","Ni aprueba ni desaprueba","Algo","Poca",NA,8
+"Hombre",89,"Jara","Aprueba","Bastante","Bastante",4,8
+"Hombre",53,"No vota","Desaprueba","Nada","Poca",10,3
+"Hombre",24,"No vota","Desaprueba","Nada","Nada",5,10
+"Hombre",67,"Kaiser","Desaprueba","Algo","Poca",7,10
+"Mujer",72,"Kast","Desaprueba","Nada","Nada",10,7
+"Mujer",80,"Jara","Ni aprueba ni desaprueba","Nada","Nada",NA,5
+"Mujer",24,"Parisi","Desaprueba","Bastante","Poca",5,5
+"Mujer",34,"Kast","Desaprueba","Algo","Nada",10,10
+"Mujer",33,"Kast","Desaprueba","Algo","Nada",NA,10
+"Mujer",40,"Parisi","Desaprueba","Algo","Nada",5,5
+"Mujer",26,"Blanco","Desaprueba","No muy","Nada",NA,8
+"Hombre",79,"Blanco",NA,"Algo","Nada",1,8
+"Mujer",66,"Nulo","Desaprueba","Nada","Nada",7,1
+"Mujer",28,"Jara","Aprueba","Algo","Poca",3,4
+"Mujer",62,"Parisi","Desaprueba","Nada","Nada",1,7
+"Mujer",88,"Jara","Aprueba","Nada",NA,8,10
+"Mujer",25,"Matthei","Desaprueba","No muy","Poca",5,5
+"Hombre",70,"Jara","Aprueba","Algo","Poca",6,4
+"Mujer",91,"Jara","Aprueba","Nada",NA,NA,10
+"Hombre",76,"Matthei","Ni aprueba ni desaprueba","Nada","Poca",5,10
+"Mujer",50,"Kast","Desaprueba","No muy","Nada",5,8
+"Mujer",57,"Jara","Ni aprueba ni desaprueba","Nada","Nada",5,10
+"Hombre",22,"Kast","Desaprueba","Algo","Nada",5,7
+"Hombre",26,"Jara","Aprueba","No muy","Bastante",1,10
+"Mujer",58,"Kaiser","Desaprueba","Muy interesado","Mucha",10,1
+"Hombre",36,"Matthei","Desaprueba","Bastante","Poca",5,7
+"Hombre",37,"Jara","Aprueba","Muy interesado","Poca",1,8
+"Hombre",25,"Jara","Aprueba","Algo","Nada",4,8
+"Mujer",29,"Kast","Desaprueba","Algo","Poca",6,10
+"Hombre",68,"Jara","Aprueba","Algo","Poca",10,10
+"Hombre",40,"Jara","Aprueba","Muy interesado","Poca",1,7
+"Mujer",67,"Matthei","Desaprueba","No muy","Nada",10,10
+"Hombre",70,"Kast","Desaprueba","No muy","Poca",4,1
+"Hombre",52,"Kast","Desaprueba","Muy interesado","Nada",10,1
+"Mujer",28,"Kast","Desaprueba","No muy","Nada",NA,8
+"Hombre",38,"Kast","Desaprueba","Nada","Poca",7,5
+"Mujer",23,"Matthei","Desaprueba","No muy","Poca",7,10
+"Mujer",56,"Kast","Desaprueba","No muy","Nada",6,6
+"Mujer",46,"Kast","Desaprueba","No muy","Poca",6,7
+"Hombre",51,"Kast","Desaprueba","Bastante","Nada",7,9
+"Hombre",25,"Matthei","Desaprueba","Nada","Nada",7,10
+"Mujer",77,"No vota","Aprueba","Nada","Nada",5,5
+"Hombre",30,"No vota","Ni aprueba ni desaprueba","Nada","Nada",5,8
+"Mujer",46,"Nulo","Aprueba","Algo","Nada",7,5
+"Mujer",39,"Jara","Desaprueba","Nada","Poca",5,5
+"Mujer",30,"Parisi","Ni aprueba ni desaprueba","Algo","Nada",NA,10
+"Mujer",66,"Kast","Desaprueba","Nada",NA,NA,10
+"Hombre",22,"No vota","Desaprueba","Algo","Nada",7,6
+"Mujer",37,"Kast","Desaprueba","Algo","Nada",8,5
+"Mujer",33,"Kast","Desaprueba","Bastante","Poca",10,10
+"Mujer",19,"Nulo","Desaprueba","No muy","Poca",5,4
+"Mujer",24,"Kast","Aprueba","Algo","Poca",5,5
+"Mujer",62,"No vota",NA,"Nada","Nada",NA,7
+"Mujer",63,"Jara","Desaprueba","Algo","Poca",1,8
+"Mujer",69,"Nulo","Aprueba","Algo","Poca",5,5
+"Hombre",23,"Parisi","Aprueba","Algo","Poca",4,5
+"Hombre",59,"Kast","Desaprueba","Muy interesado","Nada",5,10
+"Hombre",35,"Matthei","Desaprueba","Muy interesado","Poca",8,10
+"Mujer",57,"No vota","Aprueba","Nada","Poca",1,8
+"Hombre",28,"Blanco","Desaprueba","No muy","Nada",10,1
+"Hombre",63,"Parisi","Desaprueba","Nada",NA,NA,5
+"Mujer",84,"Jara","Aprueba","Algo","Poca",NA,10
+"Mujer",64,"Kast","Desaprueba","No muy","Nada",NA,10
+"Mujer",69,"Blanco","Desaprueba","Nada","Nada",NA,6
+"Mujer",24,"Kast","Desaprueba","Algo","Poca",NA,10
+"Hombre",50,"Blanco","Desaprueba","Nada","Poca",NA,10
+"Mujer",69,"Jara","Ni aprueba ni desaprueba","Algo","Poca",NA,10
+"Mujer",28,"Kast","Ni aprueba ni desaprueba","Nada","Nada",NA,10
+"Mujer",42,"Kast","Desaprueba","Bastante","Nada",4,10
+"Mujer",76,"Kaiser","Desaprueba","Nada","Nada",NA,10
+"Hombre",26,"Parisi","Desaprueba","Muy interesado","Poca",NA,8
+"Mujer",44,"Parisi","Desaprueba","Nada","Nada",NA,8
+"Hombre",77,"Blanco","Ni aprueba ni desaprueba","Nada","Nada",4,4
+"Mujer",78,"Jara","Aprueba","No muy",NA,1,10
+"Hombre",84,"Enríquez-Ominami","Desaprueba","Nada","Poca",5,5
+"Hombre",24,"Parisi","Desaprueba","Algo","Poca",5,7
+"Mujer",63,"Kast","Desaprueba","Bastante","Nada",10,8
+"Mujer",80,"Blanco","Desaprueba","Nada","Nada",NA,5
+"Mujer",60,"Jara","Aprueba","Muy interesado","Poca",3,7
+"Mujer",27,"Matthei","Desaprueba","Nada","Nada",5,10
+"Hombre",25,"Parisi","Desaprueba","Bastante","Nada",5,9
+"Mujer",56,"Matthei","Desaprueba","No muy","Nada",8,7
+"Mujer",65,"Jara","Aprueba","Bastante","Poca",1,8
+"Hombre",32,"Nulo","Desaprueba","Nada","Nada",5,6
+"Mujer",57,"Kast","Desaprueba","No muy","Poca",9,10
+"Hombre",76,"Jara","Aprueba","Algo","Nada",3,6
+"Mujer",73,"Parisi","Desaprueba","Nada","Nada",8,4
+"Hombre",20,"Parisi","Desaprueba","Nada","Poca",5,10
+"Hombre",20,"Blanco","Aprueba",NA,"Nada",NA,1
+"Mujer",50,"Artés","Desaprueba","No muy","Nada",NA,9
+"Mujer",49,"Kaiser","Desaprueba","No muy","Nada",NA,7
+"Hombre",80,"Matthei","Desaprueba","No muy","Nada",NA,8
+"Mujer",48,"Blanco","Desaprueba","Bastante","Nada",NA,10
+"Mujer",27,"Parisi","Desaprueba","No muy","Poca",NA,6
+"Hombre",53,"Kast","Desaprueba","Nada","Nada",5,8
+"Mujer",75,"Jara","Aprueba","Bastante","Nada",5,7
+"Mujer",63,"Blanco","Desaprueba","Nada","Poca",5,7
+"Hombre",53,"Jara","Desaprueba","Nada","Nada",10,10
+"Hombre",33,"Blanco","Desaprueba","Bastante","Nada",4,7
+"Hombre",32,"Jara","Desaprueba","Algo","Bastante",9,7
+"Mujer",24,"Parisi","Desaprueba","No muy","Poca",7,6
+"Mujer",26,"Jara","Aprueba","Bastante","Poca",1,7
+"Hombre",53,"Jara","Aprueba","Bastante","Nada",1,7
+"Mujer",67,"Kast","Desaprueba","Nada","Nada",5,1
+"Mujer",55,"Kast","Desaprueba","Bastante","Poca",10,8
+"Hombre",63,"Parisi","Desaprueba","Nada","Nada",5,5
+"Mujer",48,"No vota",NA,"Nada","Mucha",5,9
+"Mujer",25,"Kast","Desaprueba","Muy interesado","Nada",5,8
+"Mujer",76,"Matthei","Desaprueba","No muy","Nada",8,4
+"Mujer",61,"Jara","Aprueba","Algo","Poca",1,8
+"Mujer",58,"Jara","Aprueba","No muy","Poca",1,10
+"Hombre",27,"Jara","Desaprueba","Muy interesado","Nada",2,4
+"Hombre",58,"Kast","Desaprueba","Algo","Nada",9,7
+"Hombre",46,"Kast","Desaprueba","Nada","Nada",3,3
+"Hombre",63,"Nulo","Desaprueba","Algo","Poca",9,9
+"Mujer",62,"Matthei","Desaprueba","Nada","Poca",10,10
+"Hombre",66,"Blanco","Desaprueba","Nada","Nada",10,10
+"Hombre",50,NA,"Desaprueba","Nada","Poca",8,4
+"Mujer",27,"Kast","Desaprueba","Nada","Nada",5,7
+"Hombre",54,"Kast","Desaprueba","Algo","Poca",8,7
+"Hombre",80,"Jara","Aprueba","Bastante","Poca",NA,5
+"Hombre",30,"Parisi","Aprueba","No muy","Nada",2,10
+"Mujer",70,"Parisi","Aprueba","Nada","Nada",NA,4
+"Mujer",37,"Jara","Aprueba","No muy","Poca",7,8
+"Hombre",83,"Jara","Aprueba","Nada","Nada",NA,4
+"Hombre",23,"Jara","Aprueba","No muy","Poca",1,10
+"Mujer",28,"Matthei","Desaprueba","Bastante","Nada",5,10
+"Hombre",72,"Kast","Desaprueba","Bastante","Poca",10,8
+"Mujer",57,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",5,10
+"Hombre",38,"Jara","Aprueba","No muy","Nada",4,7
+"Mujer",19,"Jara","Aprueba","Algo","Poca",4,7
+"Hombre",43,"Kast","Desaprueba","Algo","Nada",7,10
+"Mujer",72,"Jara","Aprueba","Algo","Poca",5,8
+"Hombre",74,"Kaiser","Desaprueba","Muy interesado","Nada",10,10
+"Mujer",63,"Kast","Desaprueba","Algo","Nada",10,NA
+"Mujer",45,"Kast","Desaprueba","No muy","Nada",9,7
+"Mujer",24,"Jara","Aprueba","Algo","Nada",1,5
+"Hombre",36,"No vota","Desaprueba","No muy","Nada",5,7
+"Mujer",65,"Matthei","Desaprueba","Nada","Poca",10,10
+"Hombre",71,"Blanco","Desaprueba","Algo","Nada",5,7
+"Mujer",68,"Kast","Desaprueba","Bastante","Poca",10,10
+"Hombre",36,"Jara","Aprueba","Algo","Nada",4,9
+"Hombre",69,"Matthei","Aprueba","No muy","Poca",1,5
+"Mujer",25,"Matthei","Desaprueba","No muy","Nada",5,7
+"Mujer",60,"Blanco","Desaprueba","Nada","Nada",5,10
+"Mujer",25,"Parisi","Aprueba","Algo","Poca",5,8
+"Mujer",37,"Kast","Aprueba","Nada","Poca",6,10
+"Hombre",74,"Matthei","Desaprueba","Algo","Poca",8,3
+"Mujer",47,"Kast","Desaprueba","Algo","Poca",10,7
+"Mujer",48,"Blanco","Desaprueba","Bastante","Nada",NA,9
+"Mujer",29,"Jara","Aprueba","Bastante","Poca",NA,9
+"Hombre",60,"Kast","Desaprueba","Algo","Poca",NA,8
+"Hombre",58,"Kaiser","Desaprueba","Bastante","Nada",NA,10
+"Mujer",58,"Blanco","Desaprueba","Algo","Poca",NA,8
+"Mujer",42,"Kast","Desaprueba","Nada","Nada",10,6
+"Mujer",65,"Matthei","Desaprueba","Muy interesado","Nada",2,10
+"Hombre",32,"Parisi","Desaprueba","No muy","Nada",6,8
+"Mujer",52,"Matthei","Desaprueba","Bastante","Nada",5,10
+"Mujer",60,"Kast","Desaprueba","No muy","Nada",10,10
+"Mujer",30,"Jara","Aprueba","Algo","Poca",3,7
+"Hombre",33,"Kast","Desaprueba","Algo","Nada",7,6
+"Mujer",58,"Blanco","Desaprueba","Nada","Nada",NA,6
+"Hombre",36,"Nulo","Desaprueba","Nada","Nada",NA,8
+"Mujer",72,"Matthei","Desaprueba","Muy interesado","Poca",8,8
+"Hombre",77,"Matthei","Desaprueba","Muy interesado","Poca",3,8
+"Mujer",53,"Kast","Desaprueba","No muy","Nada",8,8
+"Mujer",25,"Parisi","Desaprueba","Nada","Nada",5,10
+"Mujer",45,"Jara","Ni aprueba ni desaprueba","Nada","Nada",5,7
+"Mujer",21,"Kaiser","Ni aprueba ni desaprueba","Algo","Poca",5,7
+"Mujer",29,"Kast","Desaprueba","Bastante","Poca",10,6
+"Mujer",83,"Jara","Desaprueba","Nada","Nada",10,6
+"Hombre",26,NA,"Aprueba","Algo","Poca",4,9
+"Mujer",45,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",NA,7
+"Mujer",26,"Matthei","Aprueba","Algo","Nada",5,7
+"Mujer",38,"Blanco","Ni aprueba ni desaprueba","Nada","Nada",NA,5
+"Hombre",59,"Kast","Desaprueba","Nada","Nada",10,8
+"Mujer",25,"Jara","Aprueba","Algo","Poca",5,10
+"Hombre",53,"Jara","Desaprueba","Muy interesado","Poca",3,5
+"Hombre",20,"Enríquez-Ominami","Desaprueba","Nada","Nada",NA,10
+"Mujer",73,"No vota","Aprueba","Nada",NA,1,10
+"Mujer",42,"Kast","Desaprueba","Bastante","Poca",10,6
+"Hombre",54,"Matthei","Desaprueba","Nada","Poca",5,7
+"Mujer",46,"Jara","Aprueba","Bastante","Poca",2,8
+"Hombre",71,"Blanco","Desaprueba","Nada","Nada",NA,6
+"Mujer",57,"Kast","Desaprueba","No muy","Nada",6,5
+"Mujer",24,NA,"Desaprueba","Algo","Nada",10,9
+"Mujer",75,"Mayne-Nicholls","Aprueba","Muy interesado","Nada",NA,10
+"Mujer",32,"Kast","Desaprueba","Nada","Nada",7,3
+"Hombre",28,"Kast","Desaprueba","Nada","Poca",5,7
+"Hombre",59,"Jara","Aprueba","Algo","Nada",4,10
+"Mujer",49,"Parisi","Desaprueba","No muy","Nada",5,5
+"Hombre",47,"Parisi","Desaprueba","Algo","Poca",7,10
+"Mujer",39,"Kaiser","Desaprueba","Bastante","Poca",7,6
+"Hombre",67,"Matthei","Desaprueba","Algo","Nada",5,4
+"Hombre",66,"Kaiser","Desaprueba","Bastante","Nada",9,9
+"Mujer",42,"Kast","Desaprueba","Algo","Nada",6,8
+"Hombre",64,"Matthei","Aprueba","Muy interesado","Nada",1,10
+"Hombre",69,"Matthei","Desaprueba","Algo","Nada",10,10
+"Hombre",28,"Kast","Desaprueba","Algo",NA,7,5
+"Mujer",22,"Jara","Aprueba","Bastante","Bastante",1,9
+"Mujer",54,"Jara","Aprueba","Algo","Bastante",3,6
+"Hombre",40,"Kast","Desaprueba","Muy interesado","Nada",10,8
+"Mujer",21,"Jara","Aprueba","Algo","Poca",5,5
+"Mujer",80,"Nulo","Aprueba","Nada","Poca",5,4
+"Hombre",38,"Kaiser","Desaprueba","Algo","Poca",5,5
+"Hombre",38,"Jara","Desaprueba","Muy interesado","Bastante",5,10
+"Hombre",32,"Parisi","Desaprueba","Algo","Poca",NA,8
+"Hombre",29,"Kaiser","Desaprueba","Algo","Nada",7,6
+"Hombre",20,"No vota","Desaprueba","Nada","Poca",5,8
+"Mujer",57,"Blanco","Aprueba","No muy","Nada",5,10
+"Hombre",29,"Kast","Desaprueba","Bastante","Nada",9,10
+"Mujer",33,"Jara","Aprueba","No muy","Poca",4,7
+"Mujer",65,"Jara","Aprueba","No muy","Poca",NA,10
+"Hombre",40,"Jara","Aprueba","Algo","Poca",3,9
+"Mujer",84,"Jara","Aprueba","Muy interesado","Nada",NA,10
+"Mujer",80,"Kast","Desaprueba","No muy","Nada",NA,6
+"Hombre",66,"Jara","Aprueba","No muy","Poca",NA,10
+"Mujer",26,"Kast","Desaprueba","Algo","Poca",5,10
+"Mujer",48,"Nulo","Desaprueba","Nada","Poca",5,10
+"Mujer",55,"Nulo","Desaprueba","Nada","Nada",3,8
+"Hombre",50,"Kaiser","Desaprueba","Muy interesado","Poca",8,9
+"Hombre",22,"Jara","Aprueba","Algo","Poca",4,7
+"Hombre",51,"Kaiser","Desaprueba","Algo","Nada",5,10
+"Mujer",79,"Jara","Aprueba","Nada","Poca",5,8
+"Mujer",60,"Nulo","Desaprueba","Algo","Nada",5,7
+"Mujer",73,"Kast","Desaprueba","Bastante","Nada",10,9
+"Mujer",66,"Matthei","Desaprueba","Nada","Nada",NA,6
+"Mujer",37,"Blanco","Desaprueba","Algo","Nada",NA,5
+"Mujer",36,"Jara","Aprueba","Algo","Nada",3,7
+"Hombre",64,"Kast","Desaprueba","Nada","Nada",NA,6
+"Hombre",23,"Kast","Desaprueba","Algo","Nada",NA,9
+"Hombre",74,"Kast","Desaprueba","No muy","Poca",6,10
+"Hombre",28,"Matthei","Desaprueba","Algo","Poca",6,6
+"Mujer",65,"Matthei","Desaprueba","No muy","Nada",5,10
+"Mujer",32,"Matthei","Aprueba","Algo","Poca",5,7
+"Mujer",37,"Matthei","Desaprueba","Algo","Nada",7,6
+"Hombre",81,"Kast","Desaprueba","Algo","Nada",4,10
+"Hombre",70,"Kast","Desaprueba","Bastante","Nada",10,7
+"Hombre",38,"Kast","Desaprueba","Bastante","Poca",8,8
+"Mujer",30,"No vota","Desaprueba","Algo","Poca",7,10
+"Mujer",59,"Nulo","Desaprueba","Algo","Nada",NA,8
+"Mujer",20,"Kast","Ni aprueba ni desaprueba","Algo","Nada",7,8
+"Hombre",63,"Jara","Aprueba","No muy","Poca",3,4
+"Hombre",50,"No vota","Desaprueba","Nada","Nada",1,10
+"Mujer",48,"No vota","Ni aprueba ni desaprueba","Nada","Nada",NA,8
+"Hombre",64,"Kast","Desaprueba","No muy","Nada",5,5
+"Hombre",56,"Nulo","Desaprueba","Nada","Nada",NA,10
+"Mujer",40,"No vota","Aprueba","Nada","Nada",NA,10
+"Hombre",25,"Kast","Desaprueba","Muy interesado","Nada",5,5
+"Hombre",26,"Artés","Aprueba","Muy interesado","Poca",4,8
+"Mujer",59,"Matthei","Desaprueba","Nada","Nada",NA,7
+"Mujer",27,"Jara","Aprueba","Bastante","Bastante",4,6
+"Mujer",30,"Jara","Aprueba","Algo","Poca",4,6
+"Mujer",25,"No vota","Desaprueba","Bastante","Nada",NA,5
+"Mujer",75,"Blanco","Aprueba","Nada","Nada",NA,8
+"Mujer",62,"No vota",NA,"Nada","Poca",5,6
+"Mujer",21,"Jara","Aprueba","Muy interesado","Nada",5,5
+"Mujer",29,"Kast","Desaprueba","Bastante","Poca",7,10
+"Mujer",38,"Kaiser","Desaprueba","No muy","Nada",5,7
+"Hombre",60,"Blanco","Aprueba","Bastante","Nada",NA,8
+"Hombre",21,"Jara",NA,"No muy","Poca",5,8
+"Mujer",69,"Matthei","Desaprueba","No muy","Poca",10,3
+"Mujer",79,"Jara","Aprueba","Bastante","Nada",4,10
+"Hombre",60,"No vota","Desaprueba","Nada","Nada",5,1
+"Mujer",38,"Parisi","Ni aprueba ni desaprueba","Algo","Poca",6,7
+"Hombre",45,"Kast","Desaprueba","Algo","Nada",7,7
+"Mujer",60,"Parisi","Desaprueba","No muy","Mucha",1,5
+"Mujer",74,"No vota","Ni aprueba ni desaprueba","Nada","Poca",NA,4
+"Mujer",76,"Nulo",NA,"Nada","Poca",NA,7
+"Hombre",52,"Mayne-Nicholls","Aprueba","Algo","Nada",3,9
+"Mujer",51,"Nulo","Aprueba","Nada","Poca",NA,8
+"Mujer",76,"Nulo","Aprueba","Nada","Nada",5,5
+"Mujer",57,"Nulo","Aprueba","Nada","Bastante",NA,6
+"Hombre",81,"Matthei","Aprueba","Bastante","Nada",NA,9
+"Mujer",54,"Kast","Desaprueba","Bastante","Nada",8,8
+"Hombre",65,"No vota","Desaprueba",NA,"Nada",NA,7
+"Mujer",21,"Jara","Desaprueba","Algo","Nada",NA,8
+"Mujer",48,"Matthei","Ni aprueba ni desaprueba","No muy","Poca",10,10
+"Mujer",64,"Jara","Aprueba","Muy interesado","Poca",1,5
+"Hombre",34,"Mayne-Nicholls","Ni aprueba ni desaprueba","Algo","Nada",3,7
+"Mujer",80,"Parisi","Aprueba","Nada","Poca",10,10
+"Hombre",68,"Jara","Aprueba","Bastante","Poca",1,7
+"Mujer",55,"Jara","Aprueba","Muy interesado","Nada",1,10
+"Mujer",55,"Kaiser","Desaprueba","Algo","Poca",8,9
+"Mujer",60,"Kast","Desaprueba","No muy","Poca",7,7
+"Mujer",72,"Matthei","Desaprueba","No muy","Poca",7,7
+"Mujer",50,"Kast","Desaprueba","Algo","Poca",7,6
+"Mujer",53,"Jara","Aprueba","Muy interesado","Poca",1,5
+"Hombre",21,"Jara","Aprueba","Bastante","Poca",6,8
+"Hombre",28,"Parisi","Desaprueba","Nada","Nada",5,7
+"Mujer",50,"Kaiser","Desaprueba","Muy interesado","Nada",10,10
+"Mujer",33,"Jara","Aprueba","Bastante","Poca",1,10
+"Mujer",61,"No vota","Desaprueba","Algo","Nada",10,8
+"Mujer",46,"Kast","Desaprueba","Nada","Nada",7,10
+"Mujer",45,"Jara","Aprueba","Algo","Poca",1,10
+"Hombre",60,"Matthei","Desaprueba","Algo","Nada",6,5
+"Mujer",25,"Jara","Aprueba","Nada","Poca",NA,6
+"Hombre",71,"Nulo","Desaprueba","No muy","Nada",5,4
+"Mujer",57,"Parisi","Desaprueba","No muy","Poca",NA,6
+"Mujer",68,"Matthei","Desaprueba","No muy","Nada",7,8
+"Mujer",21,"Jara","Aprueba","Algo","Poca",4,7
+"Hombre",27,"Parisi","Aprueba","Nada","Poca",5,10
+"Hombre",75,"Jara","Desaprueba","Algo","Nada",10,4
+"Mujer",29,"Kast","Desaprueba","Algo","Poca",5,7
+"Mujer",86,"Kast","Aprueba","Bastante","Nada",5,5
+"Mujer",18,"Kast","Desaprueba","No muy","Poca",5,10
+"Mujer",85,"Jara","Aprueba","Bastante","Nada",3,9
+"Hombre",18,"Kast","Desaprueba","Algo","Bastante",10,10
+"Hombre",36,"Matthei","Desaprueba","Muy interesado","Mucha",7,10
+"Mujer",54,"Jara","Aprueba","Muy interesado","Nada",1,7
+"Hombre",19,"No vota",NA,"Nada","Poca",NA,10
+"Hombre",64,"Jara","Aprueba","Muy interesado","Poca",1,8
+"Hombre",41,"Artés","Aprueba","Bastante","Nada",1,10
+"Mujer",50,"Matthei","Desaprueba","No muy","Nada",8,7
+"Mujer",46,NA,"Desaprueba","Nada","Nada",5,6
+"Hombre",52,"Kast","Desaprueba","Bastante","Poca",10,5
+"Hombre",73,"Matthei","Desaprueba","Nada","Poca",NA,5
+"Hombre",78,"Kaiser","Desaprueba","No muy","Nada",10,7
+"Mujer",49,"Matthei","Desaprueba","Algo","Nada",5,10
+"Mujer",73,"Nulo","Aprueba","Nada","Poca",9,7
+"Mujer",51,"Nulo","Ni aprueba ni desaprueba","Algo",NA,NA,4
+"Mujer",70,"Matthei","Desaprueba","Nada","Nada",7,10
+"Hombre",30,"Matthei","Desaprueba","Algo","Poca",5,7
+"Mujer",50,"Jara","Desaprueba","Nada","Nada",4,2
+"Mujer",29,"Kast","Desaprueba","No muy","Poca",8,10
+"Hombre",32,"Parisi","Desaprueba","Algo","Poca",7,5
+"Mujer",52,"Parisi","Ni aprueba ni desaprueba","No muy","Nada",5,10
+"Mujer",72,"Nulo","Desaprueba",NA,"Nada",9,5
+"Hombre",42,"No vota","Desaprueba","Nada","Mucha",5,2
+"Hombre",60,"Kast","Desaprueba","Muy interesado","Nada",8,9
+"Hombre",48,"Kast","Desaprueba","No muy","Poca",5,5
+"Mujer",29,"Kast","Desaprueba","No muy","Nada",5,7
+"Hombre",41,"Matthei","Desaprueba","Nada","Nada",5,4
+"Hombre",64,"No vota","Desaprueba","Nada","Poca",NA,1
+"Hombre",71,"No vota","Aprueba","Nada","Nada",7,8
+"Hombre",40,"No vota","Aprueba","Nada","Nada",8,8
+"Hombre",55,"Jara","Aprueba","Muy interesado","Poca",3,7
+"Mujer",35,"Jara","Aprueba","Muy interesado","Poca",1,10
+"Mujer",51,"Jara","Aprueba","Bastante","Nada",3,8
+"Mujer",32,"Jara","Desaprueba","Algo","Nada",6,7
+"Mujer",18,"Jara","Aprueba","Algo","Poca",3,8
+"Hombre",48,"Parisi","Desaprueba","Bastante","Poca",10,9
+"Hombre",49,"Enríquez-Ominami","Desaprueba","Bastante","Nada",3,5
+"Mujer",66,"Kast","Aprueba","Nada","Nada",NA,9
+"Mujer",52,"Kast","Desaprueba","Bastante","Nada",10,10
+"Hombre",25,"Nulo","Desaprueba","Algo","Poca",5,7
+"Mujer",60,"Parisi","Desaprueba","No muy","Nada",6,5
+"Hombre",65,"Blanco","Desaprueba","No muy","Nada",5,6
+"Mujer",43,"Matthei","Desaprueba","Algo","Poca",NA,6
+"Hombre",65,"Jara","Desaprueba","Muy interesado","Poca",1,7
+"Mujer",42,"Kast","Desaprueba","Nada","Nada",NA,4
+"Hombre",28,"Artés","Desaprueba","Bastante","Nada",5,10
+"Hombre",33,"Matthei","Aprueba","Algo","Poca",NA,8
+"Mujer",84,"Kast","Aprueba","Nada","Nada",10,1
+"Mujer",69,"Kast","Desaprueba","Bastante","Nada",6,6
+"Hombre",89,"Kast","Ni aprueba ni desaprueba","Nada","Nada",10,4
+"Mujer",51,"Matthei","Desaprueba","Algo","Poca",NA,5
+"Mujer",28,"No vota",NA,"Algo","Poca",6,10
+"Mujer",58,"Matthei","Desaprueba","Nada","Nada",8,7
+"Mujer",26,"Nulo","Desaprueba","Nada","Poca",5,5
+"Hombre",34,"Kaiser","Desaprueba","No muy","Poca",7,10
+"Mujer",43,"Kast","Desaprueba","Nada","Nada",6,6
+"Hombre",52,"Mayne-Nicholls","Aprueba","Bastante","Poca",3,8
+"Hombre",85,"Jara","Aprueba","Muy interesado","Poca",2,10
+"Hombre",84,"Matthei","Desaprueba","Nada","Nada",7,10
+"Hombre",22,"Kast","Desaprueba","Algo","Nada",8,8
+"Hombre",53,"Jara","Aprueba","Algo","Poca",2,8
+"Mujer",40,"Jara","Aprueba","Nada","Poca",5,7
+"Mujer",59,"Matthei","Desaprueba","No muy","Nada",5,1
+"Mujer",66,"Matthei","Desaprueba","Nada","Nada",5,10
+"Hombre",75,"Nulo","Desaprueba","Bastante","Poca",NA,8
+"Hombre",44,"Jara","Aprueba","Muy interesado","Nada",1,8
+"Hombre",62,"Jara",NA,"No muy","Poca",NA,10
+"Mujer",66,"Matthei","Desaprueba","No muy","Nada",10,5
+"Mujer",22,"Jara","Desaprueba","Nada","Nada",5,8
+"Mujer",68,"Jara","Aprueba","Bastante","Poca",1,8
+"Hombre",70,"Nulo",NA,"Nada",NA,NA,7
+"Mujer",52,"Nulo","Desaprueba","Algo","Poca",5,7
+"Hombre",59,"Kast","Desaprueba","Algo","Poca",10,7
+"Mujer",56,"Kaiser","Desaprueba","No muy","Nada",10,8
+"Mujer",30,"Jara","Desaprueba","Nada","Nada",5,3
+"Mujer",67,"Matthei","Desaprueba","Nada","Nada",10,6
+"Mujer",61,"Nulo","Ni aprueba ni desaprueba","No muy","Nada",5,6
+"Hombre",39,"Jara","Aprueba","Algo","Poca",5,10
+"Mujer",36,"Parisi","Desaprueba","Nada","Nada",5,8
+"Mujer",65,"No vota","Desaprueba","Nada","Nada",5,5
+"Mujer",57,"Enríquez-Ominami","Desaprueba","Nada","Nada",10,10
+"Hombre",28,"Jara","Aprueba","Algo","Poca",3,7
+"Hombre",46,"Nulo","Desaprueba","Bastante","Nada",5,6
+"Mujer",47,"Kast","Desaprueba","No muy","Nada",7,8
+"Hombre",57,"Jara","Aprueba","Algo","Nada",4,10
+"Mujer",44,"Matthei","Desaprueba","Algo","Poca",4,4
+"Mujer",50,"Jara","Aprueba","Muy interesado","Poca",1,7
+"Mujer",40,"Kast","Desaprueba","No muy","Poca",5,7
+"Hombre",37,"Kaiser","Desaprueba","Nada","Nada",10,10
+"Mujer",24,"Parisi","Aprueba","Nada","Nada",3,6
+"Hombre",20,"Kast","Aprueba","Algo","Bastante",5,7
+"Hombre",33,"Parisi","Desaprueba","Nada","Poca",3,6
+"Mujer",45,"Kast","Desaprueba","Nada","Poca",5,7
+"Hombre",35,"Kast","Desaprueba","Nada","Poca",5,10
+"Hombre",56,"No vota","Aprueba","Nada","Poca",4,9
+"Hombre",30,"Kast","Desaprueba","No muy","Bastante",7,7
+"Hombre",58,"Matthei","Desaprueba","Muy interesado","Poca",8,8
+"Hombre",39,"Jara","Aprueba","Muy interesado","Poca",1,10
+"Mujer",42,"Jara","Desaprueba","Nada","Poca",5,8
+"Hombre",75,"Kast","Desaprueba","No muy","Poca",9,4
+"Mujer",57,"Jara","Aprueba","Bastante","Nada",6,6
+"Mujer",75,"Kast","Aprueba","Nada","Nada",8,8
+"Hombre",20,"Parisi","Desaprueba","Nada","Nada",5,10
+"Mujer",42,"Kast","Desaprueba","Bastante","Poca",8,9
+"Mujer",51,"Blanco","Desaprueba","Nada","Nada",NA,7
+"Hombre",28,"Jara",NA,"Nada",NA,NA,5
+"Hombre",57,"Kast","Desaprueba","Algo","Nada",6,1
+"Mujer",78,"Jara","Aprueba","Muy interesado","Nada",1,10
+"Hombre",28,"Enríquez-Ominami","Desaprueba","Algo","Nada",NA,6
+"Hombre",45,"Jara",NA,"Nada",NA,NA,5
+"Hombre",84,"Kast","Desaprueba","Bastante","Nada",10,8
+"Mujer",70,"Kast","Desaprueba","Algo","Poca",6,3
+"Mujer",54,"Jara","Desaprueba","Nada","Nada",6,6
+"Mujer",61,"Artés",NA,"Nada","Nada",NA,1
+"Mujer",37,"Kast","Desaprueba","No muy","Nada",NA,10
+"Mujer",73,"Kast","Desaprueba","Algo","Nada",NA,9
+"Hombre",91,"Jara","Aprueba","Nada","Nada",5,9
+"Hombre",58,"Matthei","Desaprueba","Muy interesado","Poca",7,7
+"Hombre",49,"Kast","Desaprueba","Algo","Nada",5,9
+"Hombre",25,"Nulo","Aprueba","Bastante","Poca",4,8
+"Mujer",78,"Nulo","Desaprueba","Bastante","Nada",NA,8
+"Mujer",66,"Kast","Desaprueba","Nada","Nada",10,2
+"Hombre",59,"Parisi","Aprueba","Algo","Poca",4,7
+"Mujer",57,"No vota","Ni aprueba ni desaprueba","No muy","Nada",5,6
+"Mujer",71,"Jara","Ni aprueba ni desaprueba","No muy","Nada",4,6
+"Hombre",78,"Matthei","Desaprueba","Nada","Nada",NA,2
+"Mujer",18,"Kast","Ni aprueba ni desaprueba","No muy","Nada",NA,6
+"Hombre",63,"Jara","Aprueba","Algo","Poca",1,7
+"Hombre",73,"Matthei","Desaprueba","Algo","Poca",6,6
+"Hombre",75,"Kast","Aprueba","Algo","Nada",2,7
+"Mujer",36,"Matthei","Desaprueba","Algo","Nada",7,8
+"Hombre",55,"Blanco","Desaprueba","Nada","Nada",5,7
+"Mujer",73,"Nulo","Desaprueba","Nada","Nada",5,5
+"Mujer",43,"Kast","Desaprueba","Bastante","Poca",5,6
+"Mujer",83,"Matthei","Desaprueba","Muy interesado","Poca",7,8
+"Mujer",45,"Jara","Desaprueba","Algo","Nada",5,5
+"Mujer",56,"Jara","Aprueba","Muy interesado","Poca",3,9
+"Hombre",49,"Kast","Desaprueba","Muy interesado","Nada",8,6
+"Mujer",30,"Nulo","Desaprueba","Nada","Nada",5,5
+"Mujer",62,"Jara","Aprueba","Algo","Nada",3,7
+"Hombre",23,"Enríquez-Ominami","Aprueba","Bastante","Poca",4,6
+"Mujer",67,"Jara","Aprueba","Bastante","Poca",5,8
+"Mujer",45,"Matthei","Desaprueba","No muy","Nada",7,10
+"Mujer",60,"Nulo","Desaprueba","Nada","Nada",5,7
+"Mujer",59,"Matthei","Desaprueba","No muy","Nada",8,7
+"Hombre",30,"Matthei","Desaprueba","Bastante","Nada",6,8
+"Mujer",48,"Matthei","Desaprueba","Algo","Poca",7,8
+"Mujer",40,"Matthei","Desaprueba","Muy interesado","Poca",7,10
+"Mujer",52,"Kaiser","Aprueba","Algo","Nada",1,5
+"Hombre",47,"Matthei","Aprueba","Muy interesado","Poca",8,8
+"Hombre",18,"Kast","Desaprueba","Algo","Poca",7,7
+"Hombre",19,"Nulo","Desaprueba","No muy","Poca",3,8
+"Mujer",52,"Jara","Aprueba","Bastante","Poca",4,7
+"Mujer",61,"Nulo","Desaprueba","Nada","Poca",7,10
+"Hombre",75,"Jara","Aprueba","Algo","Poca",4,6
+"Mujer",76,"Nulo","Ni aprueba ni desaprueba","Nada","Nada",6,5
+"Hombre",90,"Kaiser","Desaprueba","Nada","Nada",5,8
+"Mujer",66,"Jara",NA,"No muy","Nada",5,10
+"Mujer",69,"Jara","Aprueba","Bastante","Nada",5,9
+"Mujer",88,"Kast","Desaprueba","Nada","Poca",5,10
+"Mujer",54,"Jara","Aprueba","Muy interesado","Nada",1,4
+"Mujer",64,"No vota","Desaprueba","Nada","Nada",NA,7
+"Hombre",31,"Kast","Ni aprueba ni desaprueba","No muy","Nada",5,8
+"Mujer",46,"No vota","Desaprueba","Nada","Nada",NA,7
+"Mujer",61,"Jara","Desaprueba","No muy","Nada",5,10
+"Hombre",22,"Kaiser","Desaprueba","Nada","Nada",NA,7
+"Mujer",40,"Kast","Desaprueba","Nada","Poca",5,7
+"Mujer",58,"Matthei","Desaprueba","Nada","Poca",1,7
+"Hombre",59,"No vota","Desaprueba","Nada","Poca",10,10
+"Mujer",57,"Jara","Aprueba","Bastante","Poca",2,8
+"Hombre",71,"Matthei","Desaprueba","No muy","Poca",9,9
+"Mujer",34,"Enríquez-Ominami","Desaprueba","Nada","Nada",5,5
+"Mujer",39,"Nulo",NA,"Nada","Nada",6,10
+"Mujer",51,"Matthei","Aprueba","Nada","Nada",10,8
+"Hombre",73,"No vota","Desaprueba","Algo","Nada",5,7
+"Mujer",40,"Blanco","Desaprueba","No muy","Nada",9,4
+"Hombre",32,"Kaiser","Desaprueba","Nada","Nada",5,7
+"Hombre",44,"Kast","Desaprueba","Algo","Nada",7,8
+"Mujer",40,"Blanco","Aprueba","Nada","Nada",5,5
+"Mujer",59,"Blanco","Ni aprueba ni desaprueba","Nada","Nada",NA,10
+"Hombre",44,"Kast","Desaprueba","Bastante","Nada",10,1
+"Mujer",31,"Blanco","Ni aprueba ni desaprueba","Nada","Nada",5,7
+"Mujer",40,"Kast","Ni aprueba ni desaprueba","Algo","Poca",7,7
+"Mujer",49,"Matthei","Aprueba","Algo","Poca",NA,8
+"Mujer",28,"Jara","Aprueba","Algo","Poca",5,9
+"Mujer",42,"Blanco","Ni aprueba ni desaprueba","Algo","Nada",NA,10
+"Mujer",62,"Kast","Desaprueba","Nada","Nada",10,10
