@@ -34,7 +34,7 @@ library(dplyr)
 
 # carga dataset -----------------------------------------------------------
 
-base <- read_sav("ELSOC_2021.sav")
+base <- read_sav("sesion_02/ELSOC_2021.sav")
 
 # explorar base
 head(base) #solo muestra 6 primeros casos
